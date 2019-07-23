@@ -25,7 +25,7 @@ The to-do list should meet the following functionality requirements:
 
 #### Wireframe
 
-See [wireframe](https://vuejs.org/v2/examples/todomvc.html), but dont copy it
+![to-do-list](docs/to-do-list.gif)
 
 #### Tech Stack
 
@@ -62,8 +62,7 @@ To complete the assignment, you must complete the following:
 
 ###### Deploy:
 
-1. Push your code to Github remote
-2. Post links to your Github repo to the Projects and Exercises Slack channel
+1. Push your code to Github remotev
 
 ### Application file structure
 

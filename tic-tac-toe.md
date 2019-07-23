@@ -19,7 +19,7 @@ By default, the app should do the following:
 
 #### Wireframe
 
-See [wireframe-js-tictactoe.png](docs/tic-tac-toe.png)
+See ![wireframe-js-tictactoe.png](docs/tic-tac-toe.png)
 
 #### Tech Stack
 
