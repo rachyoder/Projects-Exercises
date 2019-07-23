@@ -92,6 +92,7 @@ Your repo should be public so that others can see your code and comment on it.
 
 1. Improve error messaging to be more specific to the terminal.
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
 **If you get stuck...**
 

@@ -49,7 +49,7 @@ To complete the assignment, you must complete the following:
 ###### Deploy:
 
 1. Push your code to Github remote
-2. Post links to your Github repo to the [exercises Slack channel](https://bootcamp-s19.slack.com/messages/CGD9QUH6E/)
+2. Post links to your Github repo to the projects and exercises Slack channel
 
 ### Application file structure
 
@@ -89,6 +89,7 @@ Your repo should be public so that others can see your code and comment on it.
 2. Keep track of number of games won by X and O.
 3. Add a link to rules, display in a modal.
 4. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+5. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
 ### Too simple? Try...
 

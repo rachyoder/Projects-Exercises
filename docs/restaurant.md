@@ -115,13 +115,13 @@ You will need to include a Procfile so Heroku knows how to start your server.
 4. Include a different menu for each day of the week that the restaurant is open.
 5. Embed a Google Map showing the location of the restaurant.
 6. Parse the results of the API call to show a list of sides available for substitution (either in addition to or instead of listing sides with each entree).
-7. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-s19/Resources#resources) by forking the repo and then initiating a pull request with your additions to the .md file.
+7. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
 Have fun!
 
 **If you get stuck...**
 
-- [Class Resources Repo](https://github.com/bootcamp-s19/Resources#resources)
+- [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Ask. :-)
 
 **Additional Resouces**

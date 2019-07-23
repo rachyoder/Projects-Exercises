@@ -81,6 +81,7 @@ Your repo should be public so that others can see your code and comment on it.
 2. Button for toggling between 12-hour and 24-hour display.
 3. Add the date (day, month, and year).
 4. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+5. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
 ### Too Easy?
 
