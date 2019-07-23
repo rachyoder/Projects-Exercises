@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# run this script in a new empty git repo to create a new basic web app
 
 # make file tree
 echo "New Project" > README.md
