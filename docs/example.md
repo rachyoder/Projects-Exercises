@@ -88,6 +88,8 @@ It is okay if your project has more files and more directories, but at the least
 2. Confirm code is up to date and works correctly
 3. Post links to your GitHub repo to the Projects and Exercises Slack channel
 
+---
+
 ### Requirements
 
 To complete the assignment, you must complete the following:
@@ -102,7 +104,7 @@ To complete the assignment, you must complete the following:
 - Style your app as you wish
 - Use the tools and technologies covered in class to complete your website. To see what we have covered, check the [Class Resources Repo](https://github.com/bootcamp-students/Resources).
 - Your repo should be public so that others can see your code and comment on it.
-  - _Remember to push to GitHub!_
+  - _**Remember to push to GitHub!**_
   - Potential employers will view your GitHub profile, so activity is crucial!
 
 #### Stretch Goals
@@ -116,7 +118,6 @@ To complete the assignment, you must complete the following:
 1. Continue to add your own content, additions, and pages to your site and improve the styling.
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
-   **If you get stuck...**
 
 ### Additional Resouces
 
