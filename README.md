@@ -1,9 +1,11 @@
 # Projects and Exercises
 
-- [Digital Clock](digital-clock.md)
-- [Countdown Timer](countdown-timer.md)
-- [Tic Tac Toe](tic-tac-toe.md)
-- [To Do List](to-do-list.md)
-- [Weather App](weather-app.md)
-- [Mind Reader](mind-reader.md)
-- [Campaign Website](campaign-website.md)
+- [Digital Clock](docs/digital-clock.md)
+- [Countdown Timer](docs/countdown-timer.md)
+- [Tic Tac Toe](docs/tic-tac-toe.md)
+- [To Do List](docs/to-do-list.md)
+- [Weather App](docs/weather-app.md)
+- [Mind Reader](docs/mind-reader.md)
+- [Campaign Website](docs/campaign-website.md)
+- [Calculator](docs/calculator.md)
+- [Sliding Puzzle](docs/sliding-puzzle.md)
