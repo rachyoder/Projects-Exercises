@@ -25,7 +25,7 @@ The to-do list should meet the following functionality requirements:
 
 #### Wireframe
 
-![to-do-list](docs/to-do-list.gif)
+![to-do-list](to-do-list.gif)
 
 #### Tech Stack
 

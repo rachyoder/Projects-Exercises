@@ -14,7 +14,7 @@ When the submit button is clicked, the application should fetch weather data fro
 
 #### Wireframe
 
-![weather-app.png](docs/weather-app.png)
+![weather-app.png](weather-app.png)
 
 #### Tech Stack
 

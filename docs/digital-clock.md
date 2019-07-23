@@ -1,25 +1,18 @@
-# Tic Tac Toe Exercise
+# Digital Clock
 
 ### Description
 
-Recreate the childhood classic, tic-tac-toe, in JavaScript.
+Create a webpage that displays the current time, in digital clock format
 
-See https://en.wikipedia.org/wiki/Tic-tac-toe for more information.
+For this project we will be using the Date object and setInterval
 
 ### MVP (Minimum Viable Product)
 
-By default, the app should do the following:
-
-1. Use the symbols X and O.
-2. On each players turn, that player places one of their symbols on an
-   unoccupied space by clicking.
-3. The game continues until one player places three symbols in a
-   straight line (horizontal, vertical, or diagonal) and wins or there are no
-   remaining available spaces and it is a draw.
+By default, the app should display the time.
 
 #### Wireframe
 
-See ![wireframe-js-tictactoe.png](docs/tic-tac-toe.png)
+![digital-clock.png](digital-clock.png)
 
 #### Tech Stack
 
@@ -33,7 +26,7 @@ To complete the assignment, you must complete the following:
 
 ###### Setup:
 
-1. Create repo, for example: `tic-tac-toe`
+1. Create repo, for example: `digital-clock`
 2. Locally, navigate to your `sites` folder in the terminal
 3. `git clone` + `your-repo-name-git` into your Sites folder
 4. Create a `dev` branch to commit your code to
@@ -43,13 +36,13 @@ To complete the assignment, you must complete the following:
 ###### Develop:
 
 1. Add content and elements to your website
-2. View changes locally
+2. View changes locally with MAMP (localhost)
 3. Save often, and commit to github when important changes happen
 
 ###### Deploy:
 
 1. Push your code to Github remote
-2. Post links to your Github repo to the [exercises Slack channel](https://bootcamp-s19.slack.com/messages/CGD9QUH6E/)
+2. Post links to your Github repo to the Projects and Exercises Slack channel
 
 ### Application file structure
 
@@ -73,11 +66,10 @@ It is okay if your project has more files and more directories, but at the least
 
 ### Requirements
 
-Style it as you wish.
+Style it as you wish
+Display the current time and make sure it updates every second
 
-Include a Restart Game button.
-
-Website must be responsive.
+Website must be responsive
 
 ### Remember to push to Github!
 
@@ -85,18 +77,14 @@ Your repo should be public so that others can see your code and comment on it.
 
 ### If you finish early...
 
-1. Allow players to enter their names.
-2. Keep track of number of games won by X and O.
-3. Add a link to rules, display in a modal.
+1. Change the font for the display; a monospace font would look more like a digital clock, and it wouldn't jar your eyes as the variable-width string is recentered every second.
+2. Button for toggling between 12-hour and 24-hour display.
+3. Add the date (day, month, and year).
 4. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 
-### Too simple? Try...
+### Too Easy?
 
-1. Recreating Checkers.
-2. Recreating Othello.
-3. Recreating Go.
-4. Recreating Chess.
-5. Create an AI to beat whoever plays, every time.
+1. Turn it into an ANALOG clock!
 
 **If you get stuck...**
 
@@ -107,6 +95,6 @@ Your repo should be public so that others can see your code and comment on it.
 
 - [Learn JS](https://www.w3schools.com/js/)
 
-For more information about coding games to play against humans, see these articles:
+For more information about coding time, see these articles:
 
-- [AlphaGo - Netflix](https://www.netflix.com/title/80190844?s=i&trkid=13747225)
+- [The problem with coding time](https://www.youtube.com/watch?v=-5wpm-gesOY)
