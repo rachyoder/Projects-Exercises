@@ -13,7 +13,7 @@ For this project we will be using **_something_**
 - [Project/Exercise Name](#Project-Exercise-Name)
 - [Description](#Description)
 - [Table of contents](#table-of-contents)
-- [MVP](#MVP)
+- [MVP (Minimum Viable Product)](#MVP)
   - [Wireframe](#Wireframe)
   - [Tech Stack](#Tech-Stack)
 - [Process](#process)
@@ -22,15 +22,12 @@ For this project we will be using **_something_**
   - [Develop](#Develop)
   - [Deploy](#Deploy)
 - [Requirements](#Requirements)
-  - [Multiple files](#multiple-files)
-  - [Combo](#combo)
-  - [Auto insert and update TOC](#auto-insert-and-update-toc)
-  - [GitHub token](#github-token)
-- [Tests](#tests)
+  - [Additional Requirements](#Additional-Requirements)
+  - [Stretch Goals](#Stretch-Goals)
 - [Additional Resouces](#Additional-Resouces)
   <!--te-->
 
-### MVP (Minimum Viable Product)
+### MVP
 
 By default, the app should **_do something_**
 
@@ -52,7 +49,8 @@ By default, the app should **_do something_**
 2. Locally, navigate to your `sites` folder in the terminal
 3. `git clone` + `your-repo-name` into your Sites folder
 4. Create necessary files for application and view in VS Code
-   - Run shell script to expedite process
+   - Run shell script to expedite process unless you are using a framework
+   - _If you are using a framework, disregard the "Application File Structure" section_
 5. Import and route necessary css/js files (E.g. Bootstrap)
 6. Save all and create your first commit to `master`
 
@@ -94,31 +92,26 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-#### List of important requirements to complete exercise / project
-
 1. Requirement 1
 2. Requirement 2
 3. Requirement 3
 
-#### List of general requirements to get project approved as 'completed successfully'
+#### Additional Requirements
 
 - Website must be responsive
 - Style your app as you wish
 - Use the tools and technologies covered in class to complete your website. To see what we have covered, check the [Class Resources Repo](https://github.com/bootcamp-students/Resources).
+- Your repo should be public so that others can see your code and comment on it.
+  - _Remember to push to GitHub!_
+  - Potential employers will view your GitHub profile, so activity is crucial!
 
-#### List of stretch goals
+#### Stretch Goals
 
 - stretch goal 1
 - stretch goal 2
 - stretch goal 3
 
-### Remember to push to GitHub!
-
-Your repo should be public so that others can see your code and comment on it.
-
-- Potential employers will view your GitHub profile, so activity is crucial!
-
-### If you finish early...
+##### If you finish early...
 
 1. Continue to add your own content, additions, and pages to your site and improve the styling.
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
