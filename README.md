@@ -1,6 +1,6 @@
 # Projects and Exercises
 
-# add more resources and add i can statements
+### Add more resources
 
 - [Digital Clock](docs/digital-clock.md)
 - [Countdown Timer](docs/countdown-timer.md)
@@ -11,7 +11,7 @@
 - [Calculator](docs/calculator.md)
 - [To Do List](docs/to-do-list.md)
 
-# finish content
+### Finish content
 
 - [Blog](docs/blog.md)
 - [Sliding Puzzle](docs/sliding-puzzle.md)
@@ -24,7 +24,7 @@
 
 
 # Refactoring
-# need to do
+### Need to do
 
 - [How to Upgrade to PHP](docs/php-refactor.md)
 - [How to Upgrade to React](docs/react-refactor.md)
