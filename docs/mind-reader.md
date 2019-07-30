@@ -96,9 +96,12 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Requirement 1
-2. Requirement 2
-3. Requirement 3
+1. Use javascript to successfully show the animation transitions
+2. Successfully show state management for each step ( page 1, 2 3 ..) without refreshing the page, this means that you will only create a single index.html
+3. The restart button should not refresh the page, but rather, reset the state of the mind reader
+4. Use Icons of your choice, we reccomend [https://fontawesome.com/icons](https://fontawesome.com/icons)
+5. All multiples of 9 should be the same symbol
+
 
 #### Additional Requirements
 
@@ -134,70 +137,6 @@ To complete the assignment, you must complete the following:
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
 - []()
-
-For more information about **_doing something_**, see these articles:
-
-- []()
-- []()
-- []()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Requirements
-
-Use javascript to successfully show the animation transitions
-
-Successfully show state management for each step ( page 1, 2 3 ..) without refreshing the page, this means that you will only create a single index.html
-
-The restart button should not refresh the page, but rather, reset the state of the mind reader
-
-Use Icons of your choice, we reccomend [https://fontawesome.com/icons](https://fontawesome.com/icons)
-
-All multiples of 9 should be the same symbol
-
-Website must be responsive
-
-### Remember to push to Github!
-
-Your repo should be public so that others can see your code and comment on it.
-
-### If you finish early...
-
-1. Improve error messaging to be more specific to the terminal.
-2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
-
-**If you get stuck...**
-
-- [Class Resources Repo](https://github.com/bootcamp-students/Resources)
-- Ask. :-)
-
-**Additional Resouces**
-
-- [Learn JS](https://www.w3schools.com/js/)
 
 For more information about using API's, see these articles:
 
