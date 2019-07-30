@@ -12,7 +12,7 @@ For this project we will be using **_something_**
 
 - [Project/Exercise Name](#Project-Exercise-Name)
 - [Description](#Description)
-- [Table of contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
   - [Wireframe](#Wireframe)
   - [Tech Stack](#Tech-Stack)

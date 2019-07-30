@@ -6,7 +6,28 @@ Create a webpage that displays the current time, in digital clock format
 
 For this project we will be using the Date object and setInterval
 
-### MVP (Minimum Viable Product)
+### Table of contents
+
+<!--ts-->
+
+- [Project/Exercise Name](#Digital-Clock)
+- [Description](#Description)
+- [Table of Contents](#table-of-contents)
+- [MVP (Minimum Viable Product)](#MVP)
+  - [Wireframe](#Wireframe)
+  - [Tech Stack](#Tech-Stack)
+- [Process](#process)
+  - [Setup](#Setup)
+  - [Application File Structure](#Application-File-Structure)
+  - [Develop](#Develop)
+  - [Deploy](#Deploy)
+- [Requirements](#Requirements)
+  - [Additional Requirements](#Additional-Requirements)
+  - [Stretch Goals](#Stretch-Goals)
+- [Additional Resouces](#Additional-Resouces)
+  <!--te-->
+
+### MVP
 
 By default, the app should display the time.
 
@@ -20,31 +41,20 @@ By default, the app should display the time.
 2. CSS
 3. JS
 
-### Objectives
+### Process
 
-To complete the assignment, you must complete the following:
+##### Setup:
 
-###### Setup:
-
-1. Create repo, for example: `digital-clock`
+1. Create repo, for example: `my-app`
 2. Locally, navigate to your `sites` folder in the terminal
-3. `git clone` + `your-repo-name-git` into your Sites folder
-4. Create a `dev` branch to commit your code to
-5. Create necessary files for application
-6. Import necessary css/js files (Bootstrap)
+3. `git clone` + `your-repo-name` into your Sites folder
+4. Create necessary files for application and view in VS Code
+   - Run shell script to expedite process unless you are using a framework
+   - _If you are using a framework, disregard the "Application File Structure" section_
+5. Import and route necessary css/js files (E.g. Bootstrap)
+6. Save all and create your first commit to `master`
 
-###### Develop:
-
-1. Add content and elements to your website
-2. View changes locally with MAMP (localhost)
-3. Save often, and commit to github when important changes happen
-
-###### Deploy:
-
-1. Push your code to Github remote
-2. Post links to your Github repo to the Projects and Exercises Slack channel
-
-### Application file structure
+###### Application File Structure
 
 Minimally:
 
@@ -54,7 +64,7 @@ web/
     css/ - folder to contain CSS files
         /style.css - stylesheet
     img/ - folder to contain any images
-    js/  - folder to contain JavaScript files
+    js/ - folder to contain JavaScript files
         /main.js
 README.md - any important information
 .gitignore - file that omits any directory/file from being tracked
@@ -64,38 +74,68 @@ Additional pages will be relative to the index.html file.
 
 It is okay if your project has more files and more directories, but at the least you need the ones listed above.
 
+##### Develop:
+
+4. Create a `dev` branch to commit your code to
+1. Add content and elements to your website
+1. View changes and test locally
+1. Save often, and commit to your development branch on GitHub when important changes happen
+1. Push your commits to GitHub remote
+
+##### Deploy:
+
+1. Create a Pull Request from `dev` into `master`
+2. Confirm code is up to date and works correctly
+3. Post links to your GitHub repo to the Projects and Exercises Slack channel
+
+---
+
 ### Requirements
 
-Style it as you wish
-Display the current time and make sure it updates every second
+To complete the assignment, you must complete the following:
 
-Website must be responsive
+1. Display the current time
+2. Make sure it updates every second without refreshing the page
+<!-- 3. Requirement 3 -->
 
-### Remember to push to Github!
+#### Additional Requirements
 
-Your repo should be public so that others can see your code and comment on it.
+- Website must be responsive
+- Style your app as you wish
+- Use the tools and technologies covered in class to complete your website. To see what we have covered, check the [Class Resources Repo](https://github.com/bootcamp-students/Resources).
+- Your repo should be public so that others can see your code and comment on it.
+  - _**Remember to push to GitHub!**_
+  - Potential employers will view your GitHub profile, so activity is crucial!
 
-### If you finish early...
+#### Stretch Goals
 
-1. Change the font for the display; a monospace font would look more like a digital clock, and it wouldn't jar your eyes as the variable-width string is recentered every second.
-2. Button for toggling between 12-hour and 24-hour display.
-3. Add the date (day, month, and year).
-4. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-5. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
+- Change the font for the display; a monospace font would look more like a digital clock, and it wouldn't jar your eyes as the variable-width string is recentered every second.
+- Add the date (day, month, and year)
+- Make a button for toggling between a 12-hour and a 24-hour display
+- Turn it into an ANALOG clock!
 
-### Too Easy?
+#### If you finish early...
 
-1. Turn it into an ANALOG clock!
+1. Continue to add your own content, additions, and pages to your site and improve the styling.
+2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-**If you get stuck...**
+#### "I Can" Statements
 
+- statement 1
+- statement 2
+- statement 3
+
+### Additional Resouces
+
+- Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
-- Ask. :-)
-
-**Additional Resouces**
-
+- Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
+<!-- - []() -->
 
 For more information about coding time, see these articles:
 
 - [The problem with coding time](https://www.youtube.com/watch?v=-5wpm-gesOY)
+<!-- - []() -->
+<!-- - []() -->

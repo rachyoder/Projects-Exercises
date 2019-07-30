@@ -1,17 +1,18 @@
-# Countdown Timer
+# Blog
 
 ### Description
 
-Create a webpage that displays a countdown, in digital clock format
+Create a web site that helps you document your journey through the bootcamp by answering questions and creating posts
 
-For this project we will be using the Date object and setInterval / setTimeout
+For this project we will be adding new questions every week to the [blog-questions.md](blog-questions.md) file. 
 
+The purpose of this prohject is to not only let you have a way to look back on all your progress when the bootcamp finishes, but also see how different everyone decides to create their websites and work together to learn new techniques.
 
 ### Table of contents
 
 <!--ts-->
 
-- [Project/Exercise Name](#Countdown-Timer)
+- [Project/Exercise Name](#Blog)
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
@@ -30,11 +31,11 @@ For this project we will be using the Date object and setInterval / setTimeout
 
 ### MVP
 
-By default, the app should display a countdown timer.
+By default, your blog should be able to be viewed online by others.
 
 #### Wireframe
 
-![wireframe-js-countdown.png](https://github.com/bootcamp-s19/exercise2-js-countdown/blob/master/docs/wireframe-js-countdown.png)
+![wireframe](wireframe.png)
 
 #### Tech Stack
 
@@ -95,10 +96,9 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Display the time
-2. Make sure it updates every second without refreshing the page
-3. Stop the timer when countdown reaches 0
-<!-- 4. Requirement 4 -->
+1. Continuous updates to your blog throughout the bootcamp
+2. Help others out with making their blog look good
+3. Integrate with your portfolio
 
 #### Additional Requirements
 
@@ -111,12 +111,9 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- Change the font for the display; a monospace font would look more like a digital clock, and it wouldn't jar your eyes as the variable-width string is recentered every second.
-- Accept user input for length of timer.
-- Play an audible alert when countdown reaches 0
-  - Play the song!
-Make it look like an analog countdown timer
-<!-- - stretch goal 3 -->
+- stretch goal 1
+- stretch goal 2
+- stretch goal 3
 
 #### If you finish early...
 

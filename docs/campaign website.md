@@ -1,59 +1,74 @@
-# Project 1: Campaign Website
+# Campaign Website
 
 ### Description
 
 Create a website promoting your favorite _FICTIONAL_ character from a book, TV show, movie, or graphic novel, who is running for the elected position of Constable in your magistrate district of Fayette County. (There are 3 such districts.)
 
-Briefly research the role of Constable, then design a political website for your chosen character. [Here's a link to get you started,](https://en.wikipedia.org/wiki/Constables_in_the_United_States#Kentucky) [ and here is another link with useful info that you will need.](#)
+Briefly research the role of Constable, then design a political website for your chosen character. [Here's a link to get you started](https://en.wikipedia.org/wiki/Constables_in_the_United_States#Kentucky)
 
-### Website Content
-
-Your website should introduce the public to your candidate, explain why they are running, and list three issues that are important to them.
 Your job is to make it easy for voters to see whether your candidate's beliefs align with their own.
 To keep things light and fun, pick issues that pertain to the character in their fictional setting, not the real world. :-)
 
-### Objectives
+### Table of contents
 
-To complete the assignment, you must complete the following:
+<!--ts-->
 
-###### Setup:
+- [Project/Exercise Name](#Campaign-Website)
+- [Description](#Description)
+- [Table of Contents](#table-of-contents)
+- [MVP (Minimum Viable Product)](#MVP)
+  - [Wireframe](#Wireframe)
+  - [Tech Stack](#Tech-Stack)
+- [Process](#process)
+  - [Setup](#Setup)
+  - [Application File Structure](#Application-File-Structure)
+  - [Develop](#Develop)
+  - [Deploy](#Deploy)
+- [Requirements](#Requirements)
+  - [Additional Requirements](#Additional-Requirements)
+  - [Stretch Goals](#Stretch-Goals)
+- [Additional Resouces](#Additional-Resouces)
+  <!--te-->
 
-1. Create Heroku account
-2. Setup and Run MAMP server locally
-3. Fork existing repo: [https://github.com/bootcamp-s19/project1-campaign-website](https://github.com/bootcamp-s19/project1-campaign-website)
-4. Clone the forked repo locally in your `~/Sites/__your__project__1__folder__ folder`
-5. Add a index.html to `/campaign-website`
-6. Add a style.css file to the `/css` sub-directory
-7. Edit the index.html file to include the Bootstrap reference via CDN
-8. Edit the index.html file under the bootstrap CDP to include your css file
+### MVP
 
-###### Develop:
+By default, the app should **_do something_**
 
-1. Add content and elements to your website
-2. View changes locally with MAMP (localhost)
-3. Save often, and commit to github when important changes happen
+#### Wireframe
 
-###### Deploy:
+![wireframe](wireframe.png)
 
-1. Create Heroku App with existing repo `heroku git\:remote -a yourproject1`
-2. Push your code to Github remote
-3. Push your code to Heroku remote
-4. View your website on your laptop and phone
-5. Post links to your Github repo and Heroku application to the [projects Slack channel](https://bootcamp-s19.slack.com/messages/CGAUZ4SA0/).
+#### Tech Stack
 
-### Application file structure
+1. HTML
+2. CSS
+3. JS
+
+### Process
+
+##### Setup:
+
+1. Create repo, for example: `my-app`
+2. Locally, navigate to your `sites` folder in the terminal
+3. `git clone` + `your-repo-name` into your Sites folder
+4. Create necessary files for application and view in VS Code
+   - Run shell script to expedite process unless you are using a framework
+   - _If you are using a framework, disregard the "Application File Structure" section_
+5. Import and route necessary css/js files (E.g. Bootstrap)
+6. Save all and create your first commit to `master`
+
+###### Application File Structure
 
 Minimally:
 
 ```
-yourappname/
+web/
     index.html - main page
-    css/ - folder to contain css files
-       /style.css - your unique stylesheet
+    css/ - folder to contain CSS files
+        /style.css - stylesheet
     img/ - folder to contain any images
-composer.json - file for composer
-composer.lock - lock file for composer
-Procfile - **no** file extension
+    js/ - folder to contain JavaScript files
+        /main.js
 README.md - any important information
 .gitignore - file that omits any directory/file from being tracked
 ```
@@ -62,9 +77,27 @@ Additional pages will be relative to the index.html file.
 
 It is okay if your project has more files and more directories, but at the least you need the ones listed above.
 
+##### Develop:
+
+4. Create a `dev` branch to commit your code to
+1. Add content and elements to your website
+1. View changes and test locally
+1. Save often, and commit to your development branch on GitHub when important changes happen
+1. Push your commits to GitHub remote
+
+##### Deploy:
+
+1. Create a Pull Request from `dev` into `master`
+2. Confirm code is up to date and works correctly
+3. Post links to your GitHub repo to the Projects and Exercises Slack channel
+
+---
+
 ### Requirements
 
-1. Website must be responsive
+To complete the assignment, you must complete the following:
+
+1. Your website should introduce the public to your candidate, explain why they are running, and list three issues that are important to them.
 2. Website must contain at least [3 distinct organisms](https://patternlab.io/) that you create using the following:
    1. Choose at least Four Bootstrap Components to include from this list:
       - Badge
@@ -84,43 +117,51 @@ It is okay if your project has more files and more directories, but at the least
 6. Scroll to an anchor tag
 7. Punch out to a website
 
-### Remember to push to Github!
+#### Additional Requirements
 
-Your repo should be public so that others can see your code and comment on it.
+- Website must be responsive
+- Style your app as you wish
+- Use the tools and technologies covered in class to complete your website. To see what we have covered, check the [Class Resources Repo](https://github.com/bootcamp-students/Resources).
+- Your repo should be public so that others can see your code and comment on it.
+  - _**Remember to push to GitHub!**_
+  - Potential employers will view your GitHub profile, so activity is crucial!
 
-### Remember to deploy to Heroku!
+#### Stretch Goals
 
-You will need to follow our example boilerplate to set up a MAMP server.
-
-You will also need to include a Procfile so Heroku knows how to start your server.
-
-### If you finish early...
-
-1. Continue to add content and pages to your site and improve the styling.
-2. Implement bootstrap components from this list that will enhance your site
+- Implement bootstrap components from this list that will enhance your site
    - Carousel
    - Jumbotron
    - Nav/Navbar
    - Progress
    - Spinner
    - Jumbotron
-3. Augment more Bootstrap Utilities to enhance your website
-4. Download Bootstrap and compile via Sass instead of using CDN
-5. Add info to your projects README.md (don't use the supplied .md file for your project, these are just instructions for you) [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+- Augment more Bootstrap Utilities to enhance your website
+- Download Bootstrap and compile via Sass instead of using CDN
 
-**If you get stuck...**
+#### If you finish early...
 
-- [Class Resources Repo](https://github.com/bootcamp-s19/Resources#resources)
-- Ask. :-)
+1. Continue to add your own content, additions, and pages to your site and improve the styling.
+2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-**Additional Resouces**
+#### "I Can" Statements
 
-- [MAMP](https://www.mamp.info/en/downloads/)
-- [MAMP Getting Started](https://www.youtube.com/playlist?list=PLXlVJXqzkgypxejj8DPVuc-HRz6ILx-dB)
+- statement 1
+- statement 2
+- statement 3
+
+### Additional Resouces
+
+- Ask questions :-)
+- [Class Resources Repo](https://github.com/bootcamp-students/Resources)
+- Learn more about [Good GitHub Practices](https://guides.github.com)
+- [Learn JS](https://www.w3schools.com/js/)
 - [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 - [Pull Requests](https://stackoverflow.com/questions/21657430/why-is-a-git-pull-request-not-called-a-push-request)
+<!-- - []() -->
 
-For more information about using PHP on Heroku, see these Dev Center articles:
+For more information about **_doing something_**, see these articles:
 
-- [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php)
-- [PHP on Heroku](https://devcenter.heroku.com/categories/php)
+- []()
+- []()
+- []()
