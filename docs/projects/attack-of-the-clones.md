@@ -1,19 +1,16 @@
-# Campaign Website
+# Attack of the Clones
 
 ### Description
 
-Create a website promoting your favorite _FICTIONAL_ character from a book, TV show, movie, or graphic novel, who is running for the elected position of Constable in your magistrate district of Fayette County. (There are 3 such districts.)
+Create a webpage that **_does something_**
 
-Briefly research the role of Constable, then design a political website for your chosen character. [Here's a link to get you started](https://en.wikipedia.org/wiki/Constables_in_the_United_States#Kentucky)
-
-Your job is to make it easy for voters to see whether your candidate's beliefs align with their own.
-To keep things light and fun, pick issues that pertain to the character in their fictional setting, not the real world. :-)
+For this project we will be using **_something_**
 
 ### Table of contents
 
 <!--ts-->
 
-- [Project/Exercise Name](#Campaign-Website)
+- [Project/Exercise Name](#Attack-of-the-Clones)
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
@@ -36,7 +33,7 @@ By default, the app should **_do something_**
 
 #### Wireframe
 
-![wireframe](wireframe.png)
+![wireframe](../wireframes/wireframe.png)
 
 #### Tech Stack
 
@@ -97,25 +94,9 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Your website should introduce the public to your candidate, explain why they are running, and list three issues that are important to them.
-2. Website must contain at least [3 distinct organisms](https://patternlab.io/) that you create using the following:
-   1. Choose at least Four Bootstrap Components to include from this list:
-      - Badge
-      - Button
-      - Caption
-      - Card
-      - Collapse
-      - Icon
-      - List Group
-      - Media Object
-      - Popovers
-      - Tooltip
-   2. Augment Five Bootstrap Utilities to suit the needs of your website
-3. A few (more than 3) prominent pictures of your candidate
-4. A table displaying important information for voters
-5. A call to action - election day is November 5!
-6. Scroll to an anchor tag
-7. Punch out to a website
+1. Requirement 1
+2. Requirement 2
+3. Requirement 3
 
 #### Additional Requirements
 
@@ -128,15 +109,9 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- Implement bootstrap components from this list that will enhance your site
-   - Carousel
-   - Jumbotron
-   - Nav/Navbar
-   - Progress
-   - Spinner
-   - Jumbotron
-- Augment more Bootstrap Utilities to enhance your website
-- Download Bootstrap and compile via Sass instead of using CDN
+- stretch goal 1
+- stretch goal 2
+- stretch goal 3
 
 #### If you finish early...
 
@@ -144,21 +119,13 @@ To complete the assignment, you must complete the following:
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-#### "I Can" Statements
-
-- statement 1
-- statement 2
-- statement 3
-
 ### Additional Resouces
 
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
-- [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
-- [Pull Requests](https://stackoverflow.com/questions/21657430/why-is-a-git-pull-request-not-called-a-push-request)
-<!-- - []() -->
+- []()
 
 For more information about **_doing something_**, see these articles:
 

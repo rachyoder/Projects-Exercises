@@ -1,4 +1,4 @@
-# Project-Exercise-Name
+# Final Project
 
 ### Description
 
@@ -10,7 +10,7 @@ For this project we will be using **_something_**
 
 <!--ts-->
 
-- [Project/Exercise Name](#Project-Exercise-Name)
+- [Project/Exercise Name](#Final-Project)
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
@@ -33,7 +33,7 @@ By default, the app should **_do something_**
 
 #### Wireframe
 
-![wireframe](wireframe.png)
+![wireframe](../wireframes/wireframe.png)
 
 #### Tech Stack
 
@@ -118,12 +118,6 @@ To complete the assignment, you must complete the following:
 1. Continue to add your own content, additions, and pages to your site and improve the styling.
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
-
-#### "I Can" Statements
-
-- statement 1
-- statement 2
-- statement 3
 
 ### Additional Resouces
 

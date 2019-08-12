@@ -1,16 +1,16 @@
-# PHP (Pretty Hefty Payload) Part 1 - Viewer
+# Mind Reader
 
 ### Description
 
-Create a webpage that **_does something_**
+Create a webapp that plays a game with the user to _read their mind_
 
-For this project we will be using **_something_**
+For this project we will be using icon packages and state management
 
 ### Table of contents
 
 <!--ts-->
 
-- [Project/Exercise Name](#PHP-(Pretty-Hefty-Payload)-Part-1---Viewer)
+- [Project/Exercise Name](#Mind-Reader)
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
@@ -29,11 +29,13 @@ For this project we will be using **_something_**
 
 ### MVP
 
-By default, the app should **_do something_**
+By default, the app should prompt the user to click through the app and see a new view for every step
+
+You need to be able to scroll through the numbers to see your symbol (page 5 on the wireframe)
 
 #### Wireframe
 
-![wireframe](wireframe.png)
+See [wireframe](https://xd.adobe.com/view/d4197d89-2c18-4e0e-5a01-c4ad9240fbc2-a228/)
 
 #### Tech Stack
 
@@ -94,9 +96,12 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Requirement 1
-2. Requirement 2
-3. Requirement 3
+1. Use javascript to successfully show the animation transitions
+2. Successfully show state management for each step ( page 1, 2 3 ..) without refreshing the page, this means that you will only create a single index.html
+3. The restart button should not refresh the page, but rather, reset the state of the mind reader
+4. Use Icons of your choice, we reccomend [https://fontawesome.com/icons](https://fontawesome.com/icons)
+5. All multiples of 9 should be the same symbol
+
 
 #### Additional Requirements
 
@@ -119,22 +124,16 @@ To complete the assignment, you must complete the following:
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-#### "I Can" Statements
-
-- statement 1
-- statement 2
-- statement 3
-
 ### Additional Resouces
 
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
-- []()
+<!-- - []() -->
 
-For more information about **_doing something_**, see these articles:
+For more information about using API's, see these articles:
 
-- []()
-- []()
-- []()
+- [W3 schools local storage](https://www.w3schools.com/html/html5_webstorage.asp)
+- [Bootstrap hide element](https://getbootstrap.com/docs/4.0/utilities/display/#hiding-elements)
+- [JavaScript Transitions](https://css-tricks.com/controlling-css-animations-transitions-javascript/)

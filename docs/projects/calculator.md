@@ -1,16 +1,16 @@
-# Final Project
+# Calculator
 
 ### Description
 
-Create a webpage that **_does something_**
+Create an in-browser calculator
 
-For this project we will be using **_something_**
+For this project we will be using math
 
 ### Table of contents
 
 <!--ts-->
 
-- [Project/Exercise Name](#Final-Project)
+- [Project/Exercise Name](#Calculator)
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
@@ -29,11 +29,11 @@ For this project we will be using **_something_**
 
 ### MVP
 
-By default, the app should **_do something_**
+By default, you should create a working responsive calculator that can perform the basic operations described in the requirements
 
 #### Wireframe
 
-![wireframe](wireframe.png)
+![wireframe-js-calculator.png](../wireframes/calculator.png)
 
 #### Tech Stack
 
@@ -94,9 +94,26 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Requirement 1
-2. Requirement 2
-3. Requirement 3
+1. You must not use eval()
+2. The calculator should have a display area at the top.
+3. The display should show `0` by default.
+4. The calculator should have 6 function buttons:
+   - Division `/`
+   - Multiplication `*`
+   - Subtraction `-`
+   - Addition `+`
+   - Calculate `=`
+   - Clear `c`
+5. The calculator should have 10 number buttons, `0-9`.
+6. The calculator should have a decimal button `.`
+7. The calculator should store three values internally:
+   - The first number entered by the user (possibly multidigit and decimal)
+   - The operator selected by the user `/`, `x`, `-`, `+`
+   - The second number entered by the user (possibly multidigit and decimal)
+8. The display area should update as a user presses number buttons.
+9. When the user clicks a function button after the first and second values are entered (instead of `=`), the result of the calculation should be saved and the calculator should allow for a new number input (for example: `1` then `+` then `3` then `-`, etc.)
+10. When the calculate button `=` is pressed, the calculator should apply the operation to the two stored numbers in the appropriate order (important for subtraction and division) and update the display.
+11. When the clear button `c` is pressed, all stored data should be erased and the display should show `0` again.
 
 #### Additional Requirements
 
@@ -109,9 +126,22 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- stretch goal 1
-- stretch goal 2
-- stretch goal 3
+- Show all buttons that were pressed until `c` in the display area.
+
+```
+Example:
+
+  12 + 34
+```
+
+- Continue to store two numbers and the operator; only the display
+should change.
+- Allow an arbitrary amount of numbers and operators to be stored. (running log)
+- Accept keyboard input
+- Undo button
+- Button that holds a value or function of choice (for example: button that automatically calculates the tip)
+- Use recursion to calculate the results
+- Graphing calculator
 
 #### If you finish early...
 
@@ -119,22 +149,17 @@ To complete the assignment, you must complete the following:
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-#### "I Can" Statements
-
-- statement 1
-- statement 2
-- statement 3
-
 ### Additional Resouces
 
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
-- []()
 
-For more information about **_doing something_**, see these articles:
+For more information about computer math, see these articles:
 
-- []()
-- []()
-- []()
+- [eval() is Evil](https://stackoverflow.com/questions/86513/why-is-using-the-javascript-eval-function-a-bad-idea)
+- [Computer math article](https://medium.com/swlh/how-computers-do-math-11af23139db)
+- [Computer math examples](https://www.w3schools.com/js/js_numbers.asp)
+- [Computer math common problem example](https://0.30000000000000004.com/)
+- [Why do computers suck at math](https://blog.codinghorror.com/why-do-computers-suck-at-math/)

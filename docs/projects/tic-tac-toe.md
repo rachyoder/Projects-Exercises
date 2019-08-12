@@ -1,17 +1,18 @@
-# Countdown Timer
+# Tic Tac Toe
 
 ### Description
 
-Create a webpage that displays a countdown, in digital clock format
+Create a webpage that recreates the childhood classic game, tic-tac-toe, in JavaScript.
 
-For this project we will be using the Date object and setInterval / setTimeout
+See [https://en.wikipedia.org/wiki/Tic-tac-toe](https://en.wikipedia.org/wiki/Tic-tac-toe) for more information.
+<!-- For this project we will be using **_something_** -->
 
 
 ### Table of contents
 
 <!--ts-->
 
-- [Project/Exercise Name](#Countdown-Timer)
+- [Project/Exercise Name](#Tic-Tac-Toe)
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
@@ -30,11 +31,18 @@ For this project we will be using the Date object and setInterval / setTimeout
 
 ### MVP
 
-By default, the app should display a countdown timer.
+By default, the app should do the following
+
+1. Use the symbols X and O.
+2. On each players turn, that player places one of their symbols on an
+   unoccupied space by clicking.
+3. The game continues until one player places three symbols in a
+   straight line (horizontal, vertical, or diagonal) and wins or there are no
+   remaining available spaces and it is a draw.
 
 #### Wireframe
 
-![wireframe-js-countdown.png](https://github.com/bootcamp-s19/exercise2-js-countdown/blob/master/docs/wireframe-js-countdown.png)
+![wireframe-js-tictactoe.png](../wireframes/tic-tac-toe.png)
 
 #### Tech Stack
 
@@ -95,10 +103,11 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Display the time
-2. Make sure it updates every second without refreshing the page
-3. Stop the timer when countdown reaches 0
-<!-- 4. Requirement 4 -->
+1. The board should be dynamically rendered
+2. The game should let the players know whos turn it is
+3. Game tiles should only be clickable once
+4. The game should display who wins the game if someone wins, otherwise say that the game resulted in a tie
+5. Include a Restart Game button that does not refresh the page, only reset the game
 
 #### Additional Requirements
 
@@ -110,13 +119,14 @@ To complete the assignment, you must complete the following:
   - Potential employers will view your GitHub profile, so activity is crucial!
 
 #### Stretch Goals
-
-- Change the font for the display; a monospace font would look more like a digital clock, and it wouldn't jar your eyes as the variable-width string is recentered every second.
-- Accept user input for length of timer.
-- Play an audible alert when countdown reaches 0
-  - Play the song!
-Make it look like an analog countdown timer
-<!-- - stretch goal 3 -->
+- Allow players to enter their names.
+- Keep track of number of games won by X and O.
+- Add a link to rules, display in a modal.
+- Recreate Checkers.
+- Recreate Othello.
+- Recreate Go.
+- Recreate Chess.
+- Create an AI to beat whoever plays, every time.
 
 #### If you finish early...
 
@@ -124,22 +134,16 @@ Make it look like an analog countdown timer
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-#### "I Can" Statements
-
-- statement 1
-- statement 2
-- statement 3
-
 ### Additional Resouces
 
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
-- []()
+<!-- - []() -->
 
-For more information about **_doing something_**, see these articles:
+For more information about games and code, see these articles:
 
-- []()
-- []()
-- []()
+- [AlphaGo - Netflix](https://www.netflix.com/title/80190844?s=i&trkid=13747225)
+- [Are Computers Playing Games With Us?](https://www.huffpost.com/entry/computer-game-intelligence_b_1396377)
+<!-- - []() -->

@@ -1,17 +1,16 @@
-# Weather App
+# Digital Clock
 
 ### Description
 
-Create a webpage that prompts users to enter a zipcode, then displays current weather information for that location or a friendly error message if the zipcode is not found.
+Create a webpage that displays the current time, in digital clock format
 
-For this project we will be using an external API to retrieve weather data.
-
+For this project we will be using the Date object and setInterval
 
 ### Table of contents
 
 <!--ts-->
 
-- [Project/Exercise Name](#Weather-App)
+- [Project/Exercise Name](#Digital-Clock)
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
@@ -30,13 +29,11 @@ For this project we will be using an external API to retrieve weather data.
 
 ### MVP
 
-By default, the app should display a title, input box for zipcode, and submit button.
-
-When the submit button is clicked, the application should fetch weather data from [api.openweathermap.org](api.openweathermap.org).
+By default, the app should display the time.
 
 #### Wireframe
 
-![weather-app.png](weather-app.png)
+![digital-clock.png](../wireframes/digital-clock.png)
 
 #### Tech Stack
 
@@ -97,13 +94,9 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Allow the user to enter their location (zip code is probably easiest) and press a button to load the weather by creating an API GET request
-2. If the request is successful, display the following in a 'mobile app' format:
-  - City name
-  - Current weather conditions
-  - Current temperature in Kelvin, Fahrenheit, and Celius
-  - A unique image, selected by the current temperature (The API has icons)
-3. If the request is unsuccessful, display a specific error message.
+1. Display the current time
+2. Make sure it updates every second without refreshing the page
+<!-- 3. Requirement 3 -->
 
 #### Additional Requirements
 
@@ -116,9 +109,10 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- Get weather based on location data (no need for user input)
-- Use more data provided by the api (forecast data, historical data, daily change in weather, etc.)
-
+- Change the font for the display; a monospace font would look more like a digital clock, and it wouldn't jar your eyes as the variable-width string is recentered every second.
+- Add the date (day, month, and year)
+- Make a button for toggling between a 12-hour and a 24-hour display
+- Turn it into an ANALOG clock!
 
 #### If you finish early...
 
@@ -126,21 +120,16 @@ To complete the assignment, you must complete the following:
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-#### "I Can" Statements
-
-- statement 1
-- statement 2
-- statement 3
-
 ### Additional Resouces
 
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
-- []()
+<!-- - []() -->
 
-For more information about using API's, see these articles:
+For more information about coding time, see these articles:
 
-- [W3 schools local storage](https://www.w3schools.com/html/html5_webstorage.asp)
-- [API call / timeout visualization](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D)
+- [The problem with coding time](https://www.youtube.com/watch?v=-5wpm-gesOY)
+- [History Of Javascript](https://fireship.io/courses/javascript/intro-history/)
+<!-- - []() -->

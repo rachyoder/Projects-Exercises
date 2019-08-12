@@ -1,16 +1,16 @@
-# Digital Clock
+# To-Do List
 
 ### Description
 
-Create a webpage that displays the current time, in digital clock format
+Create an online to-do app
 
-For this project we will be using the Date object and setInterval
+For this project we will be using **_something_**
 
 ### Table of contents
 
 <!--ts-->
 
-- [Project/Exercise Name](#Digital-Clock)
+- [Project/Exercise Name](#To-Do-List)
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
@@ -29,11 +29,11 @@ For this project we will be using the Date object and setInterval
 
 ### MVP
 
-By default, the app should display the time.
+By default, the app should display items on to do list
 
 #### Wireframe
 
-![digital-clock.png](digital-clock.png)
+![to-do-list](../wireframes/to-do-list.gif)
 
 #### Tech Stack
 
@@ -94,9 +94,18 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Display the current time
-2. Make sure it updates every second without refreshing the page
-<!-- 3. Requirement 3 -->
+1. Display all to-do list items
+2. Prompting text to add item
+3. Ability to remove item
+4. Cross out or check off item as "completed"
+5. Remove all completed items
+6. Ability to see number of remaining items
+7. Ability to check off or cross out all items in one click as a "completed all" function
+8. Ability to press a button and all items become active again
+9. Three "views" for the user:
+  - All to-do list items
+  - Only completed items
+  - Only active non-completed items
 
 #### Additional Requirements
 
@@ -109,10 +118,9 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- Change the font for the display; a monospace font would look more like a digital clock, and it wouldn't jar your eyes as the variable-width string is recentered every second.
-- Add the date (day, month, and year)
-- Make a button for toggling between a 12-hour and a 24-hour display
-- Turn it into an ANALOG clock!
+- stretch goal 1
+- stretch goal 2
+- stretch goal 3
 
 #### If you finish early...
 
@@ -120,22 +128,16 @@ To complete the assignment, you must complete the following:
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-#### "I Can" Statements
-
-- statement 1
-- statement 2
-- statement 3
-
 ### Additional Resouces
 
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
-<!-- - []() -->
+- [Why Can't Anyone Make a Decent To-Do App?](https://www.wired.com/2016/03/best-to-do-list-app/)
 
-For more information about coding time, see these articles:
+For more information about state management, see these articles:
 
-- [The problem with coding time](https://www.youtube.com/watch?v=-5wpm-gesOY)
-<!-- - []() -->
-<!-- - []() -->
+- [What is State Management](https://codeburst.io/state-management-in-javascript-15d0d98837e1)
+- [State Management how to](https://blog.logrocket.com/state-management-pattern-in-javascript-sharing-data-across-components-f4420581f535/)
+- [The future of JavaScript state management is less state management...](https://medium.com/@amcdnl/the-future-of-javascript-state-management-is-less-state-management-ba1d97b99308)

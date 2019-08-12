@@ -1,18 +1,16 @@
-# Blog
+# Refactor to React.js
 
 ### Description
 
-Create a web site that helps you document your journey through the bootcamp by answering questions and creating posts
+Create a webpage that **_does something_**
 
-For this project we will be adding new questions every week to the [blog-questions.md](blog-questions.md) file. 
-
-The purpose of this prohject is to not only let you have a way to look back on all your progress when the bootcamp finishes, but also see how different everyone decides to create their websites and work together to learn new techniques.
+For this project we will be using **_something_**
 
 ### Table of contents
 
 <!--ts-->
 
-- [Project/Exercise Name](#Blog)
+- [Project/Exercise Name](#Project-Exercise-Name)
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
@@ -31,7 +29,7 @@ The purpose of this prohject is to not only let you have a way to look back on a
 
 ### MVP
 
-By default, your blog should be able to be viewed online by others.
+By default, the app should **_do something_**
 
 #### Wireframe
 
@@ -96,9 +94,9 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Continuous updates to your blog throughout the bootcamp
-2. Help others out with making their blog look good
-3. Integrate with your portfolio
+1. Requirement 1
+2. Requirement 2
+3. Requirement 3
 
 #### Additional Requirements
 
@@ -121,12 +119,6 @@ To complete the assignment, you must complete the following:
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-#### "I Can" Statements
-
-- statement 1
-- statement 2
-- statement 3
-
 ### Additional Resouces
 
 - Ask questions :-)
@@ -137,6 +129,6 @@ To complete the assignment, you must complete the following:
 
 For more information about **_doing something_**, see these articles:
 
-- []()
-- []()
+- [Converting Vanilla JS to React.JS](https://hackernoon.com/how-i-converted-my-react-app-to-vanillajs-and-whether-or-not-it-was-a-terrible-idea-4b14b1b2faff)
+- [React File Structure](https://medium.com/@Charles_Stover/optimal-file-structure-for-react-applications-f3e35ad0a145)
 - []()

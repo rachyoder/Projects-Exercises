@@ -1,16 +1,17 @@
-# Calculator
+# Countdown Timer
 
 ### Description
 
-Create an in-browser calculator
+Create a webpage that displays a countdown, in digital clock format
 
-For this project we will be using math
+For this project we will be using the Date object and setInterval / setTimeout
+
 
 ### Table of contents
 
 <!--ts-->
 
-- [Project/Exercise Name](#Calculator)
+- [Project/Exercise Name](#Countdown-Timer)
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
@@ -29,11 +30,11 @@ For this project we will be using math
 
 ### MVP
 
-By default, you should create a working responsive calculator that can perform the basic operations described in the requirements
+By default, the app should display a countdown timer.
 
 #### Wireframe
 
-![wireframe-js-calculator.png](calculator.png)
+![count downtimer](../wireframes/countdown-timer.png)
 
 #### Tech Stack
 
@@ -94,26 +95,10 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. You must not use eval()
-2. The calculator should have a display area at the top.
-3. The display should show `0` by default.
-4. The calculator should have 6 function buttons:
-   - Division `/`
-   - Multiplication `*`
-   - Subtraction `-`
-   - Addition `+`
-   - Calculate `=`
-   - Clear `c`
-5. The calculator should have 10 number buttons, `0-9`.
-6. The calculator should have a decimal button `.`
-7. The calculator should store three values internally:
-   - The first number entered by the user (possibly multidigit and decimal)
-   - The operator selected by the user `/`, `x`, `-`, `+`
-   - The second number entered by the user (possibly multidigit and decimal)
-8. The display area should update as a user presses number buttons.
-9. When the user clicks a function button after the first and second values are entered (instead of `=`), the result of the calculation should be saved and the calculator should allow for a new number input (for example: `1` then `+` then `3` then `-`, etc.)
-10. When the calculate button `=` is pressed, the calculator should apply the operation to the two stored numbers in the appropriate order (important for subtraction and division) and update the display.
-11. When the clear button `c` is pressed, all stored data should be erased and the display should show `0` again.
+1. Display the time
+2. Make sure it updates every second without refreshing the page
+3. Stop the timer when countdown reaches 0
+<!-- 4. Requirement 4 -->
 
 #### Additional Requirements
 
@@ -126,22 +111,12 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- Show all buttons that were pressed until `c` in the display area.
-
-```
-Example:
-
-  12 + 34
-```
-
-- Continue to store two numbers and the operator; only the display
-should change.
-- Allow an arbitrary amount of numbers and operators to be stored. (running log)
-- Accept keyboard input
-- Undo button
-- Button that holds a value or function of choice (for example: button that automatically calculates the tip)
-- Use recursion to calculate the results
-- Graphing calculator
+- Change the font for the display; a monospace font would look more like a digital clock, and it wouldn't jar your eyes as the variable-width string is recentered every second.
+- Accept user input for length of timer.
+- Play an audible alert when countdown reaches 0
+  - Play the song!
+Make it look like an analog countdown timer
+<!-- - stretch goal 3 -->
 
 #### If you finish early...
 
@@ -149,55 +124,16 @@ should change.
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-#### "I Can" Statements
-
-- statement 1
-- statement 2
-- statement 3
-
 ### Additional Resouces
 
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
-- []()
+<!-- - []() -->
 
-For more information about **_doing something_**, see these articles:
+For more information about JavaScript, see these articles:
 
-- [eval() is Evil](https://stackoverflow.com/questions/86513/why-is-using-the-javascript-eval-function-a-bad-idea)
-- [Computer math article](https://medium.com/swlh/how-computers-do-math-11af23139db)
-- [Computer math examples](https://www.w3schools.com/js/js_numbers.asp)
-- [Computer math common problem example](https://0.30000000000000004.com/)
-- [Why do computers suck at math](https://blog.codinghorror.com/why-do-computers-suck-at-math/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2. 
+- [How JS works](https://fireship.io/courses/javascript/intro-how-js-works/)
+- [What is JS?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+<!-- - []() -->

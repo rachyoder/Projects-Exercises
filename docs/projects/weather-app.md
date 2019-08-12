@@ -1,16 +1,17 @@
-# To-Do List
+# Weather App
 
 ### Description
 
-Create an online to-do app
+Create a webpage that prompts users to enter a zipcode, then displays current weather information for that location or a friendly error message if the zipcode is not found.
 
-For this project we will be using **_something_**
+For this project we will be using an external API to retrieve weather data.
+
 
 ### Table of contents
 
 <!--ts-->
 
-- [Project/Exercise Name](#To-Do-List)
+- [Project/Exercise Name](#Weather-App)
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
@@ -29,11 +30,13 @@ For this project we will be using **_something_**
 
 ### MVP
 
-By default, the app should display items on to do list
+By default, the app should display a title, input box for zipcode, and submit button.
+
+When the submit button is clicked, the application should fetch weather data from [api.openweathermap.org](api.openweathermap.org).
 
 #### Wireframe
 
-![to-do-list](to-do-list.gif)
+![weather-app.png](../wireframes/weather-app.png)
 
 #### Tech Stack
 
@@ -94,18 +97,13 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Display all to-do list items
-2. Prompting text to add item
-3. Ability to remove item
-4. Cross out or check off item as "completed"
-5. Remove all completed items
-6. Ability to see number of remaining items
-7. Ability to check off or cross out all items in one click as a "completed all" function
-8. Ability to press a button and all items become active again
-9. Three "views" for the user:
-  - All to-do list items
-  - Only completed items
-  - Only active non-completed items
+1. Allow the user to enter their location (zip code is probably easiest) and press a button to load the weather by creating an API GET request
+2. If the request is successful, display the following in a 'mobile app' format:
+  - City name
+  - Current weather conditions
+  - Current temperature in Kelvin, Fahrenheit, and Celius
+  - A unique image, selected by the current temperature (The API has icons)
+3. If the request is unsuccessful, display a specific error message.
 
 #### Additional Requirements
 
@@ -118,9 +116,9 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- stretch goal 1
-- stretch goal 2
-- stretch goal 3
+- Get weather based on location data (no need for user input)
+- Use more data provided by the api (forecast data, historical data, daily change in weather, etc.)
+
 
 #### If you finish early...
 
@@ -128,22 +126,15 @@ To complete the assignment, you must complete the following:
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-#### "I Can" Statements
-
-- statement 1
-- statement 2
-- statement 3
-
 ### Additional Resouces
 
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
-- []()
+- [PWA intro](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
 
-For more information about **_doing something_**, see these articles:
+For more information about using API's, see these articles:
 
-- []()
-- []()
-- []()
+- [W3 schools local storage](https://www.w3schools.com/html/html5_webstorage.asp)
+- [API call / timeout visualization](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D)

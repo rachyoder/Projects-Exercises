@@ -1,16 +1,18 @@
-# Phone Simmulator (Final Portfolio)
+# Blog
 
 ### Description
 
-Create a webpage that **_does something_**
+Create a web site that helps you document your journey through the bootcamp by answering questions and creating posts
 
-For this project we will be using **_something_**
+For this project we will be adding new questions every week to the [blog-questions.md](blog-questions.md) file. 
+
+The purpose of this prohject is to not only let you have a way to look back on all your progress when the bootcamp finishes, but also see how different everyone decides to create their websites and work together to learn new techniques.
 
 ### Table of contents
 
 <!--ts-->
 
-- [Project/Exercise Name](#Phone-Simmulator-(Final-Portfolio))
+- [Project/Exercise Name](#Blog)
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
@@ -29,11 +31,11 @@ For this project we will be using **_something_**
 
 ### MVP
 
-By default, the app should **_do something_**
+By default, your blog should be able to be viewed online by others.
 
 #### Wireframe
 
-![wireframe](wireframe.png)
+![wireframe](../wireframes/wireframe.png)
 
 #### Tech Stack
 
@@ -94,9 +96,9 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Requirement 1
-2. Requirement 2
-3. Requirement 3
+1. Continuous updates to your blog throughout the bootcamp
+2. Help others out with making their blog look good
+3. Integrate with your portfolio
 
 #### Additional Requirements
 
@@ -119,22 +121,18 @@ To complete the assignment, you must complete the following:
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-#### "I Can" Statements
-
-- statement 1
-- statement 2
-- statement 3
-
 ### Additional Resouces
 
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
-- []()
+<!-- - []() -->
 
-For more information about **_doing something_**, see these articles:
+For more information about blogs, see these articles:
 
-- []()
-- []()
-- []()
+- [How To Stick With A Blog](https://www.freecodecamp.org/news/every-developer-should-have-a-blog-heres-why-and-how-to-stick-with-it-5fd55a247fbf/)
+- [Best Blogs to Read on Web Development](https://usersnap.com/blog/12-best-web-development-blogs-reading-right-now/)
+- [Blog Design Examples](https://bloggingpro.com/archives/2017/07/20/5-best-blog-design-examples-inspiration/)
+- [Blog Template Ideas](https://colorlib.com/wp/blog-website-templates/)
+<!-- - []() -->
