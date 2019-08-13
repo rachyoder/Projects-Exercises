@@ -2,9 +2,9 @@
 
 ### Description
 
-Create a webpage that **_does something_**
+Create a webpage api that hosts data from your machine, viewable online as a JSON file
 
-For this project we will be using **_something_**
+For this project we will be using vanilla php to create a webserver
 
 ### Table of contents
 
@@ -37,9 +37,10 @@ By default, the app should **_do something_**
 
 #### Tech Stack
 
-1. HTML
-2. CSS
-3. JS
+<!-- 1. HTML -->
+<!-- 2. CSS -->
+
+1. PHP
 
 ### Process
 
@@ -51,8 +52,8 @@ By default, the app should **_do something_**
 4. Create necessary files for application and view in VS Code
    - Run shell script to expedite process unless you are using a framework
    - _If you are using a framework, disregard the "Application File Structure" section_
-5. Import and route necessary css/js files (E.g. Bootstrap)
-6. Save all and create your first commit to `master`
+     <!-- 5. Import and route necessary css/js files (E.g. Bootstrap) -->
+5. Save all and create your first commit to `master`
 
 ###### Application File Structure
 
@@ -60,12 +61,7 @@ Minimally:
 
 ```
 web/
-    index.html - main page
-    css/ - folder to contain CSS files
-        /style.css - stylesheet
-    img/ - folder to contain any images
-    js/ - folder to contain JavaScript files
-        /main.js
+    index.php - main page
 README.md - any important information
 .gitignore - file that omits any directory/file from being tracked
 ```
@@ -94,24 +90,24 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Requirement 1
-2. Requirement 2
-3. Requirement 3
+1. Use [JSON-Generator](https://www.json-generator.com/) to create random dummy JSON data, or if you already have data of your own, lint it through [JSONLint](https://jsonlint.com/) and store the file locally
+2. Create a single PHP webserver file that starts a connection on port 8080 on your localhost
+3. Point the webserver to the JSON file and view the data online via your [Public IP](https://www.whatismyip.com/)
 
 #### Additional Requirements
 
-- Website must be responsive
-- Style your app as you wish
+<!-- - Website must be responsive -->
+<!-- - Style your app as you wish -->
+
 - Use the tools and technologies covered in class to complete your website. To see what we have covered, check the [Class Resources Repo](https://github.com/bootcamp-students/Resources).
 - Your repo should be public so that others can see your code and comment on it.
   - _**Remember to push to GitHub!**_
   - Potential employers will view your GitHub profile, so activity is crucial!
+  - _**Do not save your Public IP on GitHub, anyone can access your computer**_
 
 #### Stretch Goals
 
-- stretch goal 1
-- stretch goal 2
-- stretch goal 3
+- Create API credentials to only let users with the API key access the data
 
 #### If you finish early...
 

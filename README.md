@@ -19,11 +19,9 @@
 
 ### Finish content
 
-- [PHP (Pretty Hefty Payload) Part 1 - Viewer](docs/PHP-1.md)
 - [PHP (Pretty Hefty Payload) Part 2 - Parser](docs/PHP-2.md)
 - [Laravel Library](docs/laravel-library.md)
 - [Phone Simmulator (Final Portfolio)](docs/portfolio.md)
-- [Final Project](docs/final-project.md)
 
 # Refactoring
 
