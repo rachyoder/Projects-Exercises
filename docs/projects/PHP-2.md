@@ -33,13 +33,11 @@ By default, the app should **_do something_**
 
 #### Wireframe
 
-![wireframe](../wireframes/wireframe.png)
+![wireframe](../wireframes/api-php-1.png)
 
 #### Tech Stack
 
-1. HTML
-2. CSS
-3. JS
+1. PHP
 
 ### Process
 
@@ -51,8 +49,8 @@ By default, the app should **_do something_**
 4. Create necessary files for application and view in VS Code
    - Run shell script to expedite process unless you are using a framework
    - _If you are using a framework, disregard the "Application File Structure" section_
-5. Import and route necessary css/js files (E.g. Bootstrap)
-6. Save all and create your first commit to `master`
+     <!-- 5. Import and route necessary css/js files (E.g. Bootstrap) -->
+5. Save all and create your first commit to `master`
 
 ###### Application File Structure
 
@@ -61,11 +59,6 @@ Minimally:
 ```
 web/
     index.html - main page
-    css/ - folder to contain CSS files
-        /style.css - stylesheet
-    img/ - folder to contain any images
-    js/ - folder to contain JavaScript files
-        /main.js
 README.md - any important information
 .gitignore - file that omits any directory/file from being tracked
 ```
@@ -77,10 +70,9 @@ It is okay if your project has more files and more directories, but at the least
 ##### Develop:
 
 1. Create a `dev` branch to commit your code to
-2. Add content and elements to your website
-3. View changes and test locally
-4. Save often, and commit to your development branch on GitHub when important changes happen
-5. Push your commits to GitHub remote
+2. View changes and test locally
+3. Save often, and commit to your development branch on GitHub when important changes happen
+4. Push your commits to GitHub remote
 
 ##### Deploy:
 
@@ -94,9 +86,12 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Requirement 1
-2. Requirement 2
-3. Requirement 3
+1. Install [Allow CORS Google Chrome Plugin](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi)
+2. Create a PHP script that runs a GET request on `localhost port 3000` that uses [JSON_decode()](https://www.php.net/manual/en/function.json-decode.php) to grab the file from `{your-ip-address:8080/your-file.json`
+3. Display the raw data on screen to confirm it works (do not skip this step, very important)
+4. Parse the raw data and create a basic interface to allow a user to perform CRUD Actions on the data
+5. Perform CRUD actions on data ([POST, GET, PATCH, DELETE, etc.](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)) and update the data on the API 8080 webserver via POST.
+6. Confirm data in server(8080) is indeed updated when client updates(3000)
 
 #### Additional Requirements
 
@@ -109,9 +104,8 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- stretch goal 1
-- stretch goal 2
-- stretch goal 3
+- Use API credentials to only allow access to users with an API key
+- [Use reactstrap to dynamically display data in table](http://reactstrap.github.io/components/tables/)
 
 #### If you finish early...
 

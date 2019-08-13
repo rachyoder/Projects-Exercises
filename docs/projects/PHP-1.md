@@ -33,12 +33,9 @@ By default, the app should **_do something_**
 
 #### Wireframe
 
-![wireframe](../wireframes/wireframe.png)
+![wireframe](../wireframes/api-php-1.png)
 
 #### Tech Stack
-
-<!-- 1. HTML -->
-<!-- 2. CSS -->
 
 1. PHP
 
@@ -73,10 +70,9 @@ It is okay if your project has more files and more directories, but at the least
 ##### Develop:
 
 1. Create a `dev` branch to commit your code to
-2. Add content and elements to your website
-3. View changes and test locally
-4. Save often, and commit to your development branch on GitHub when important changes happen
-5. Push your commits to GitHub remote
+2. View changes and test locally
+3. Save often, and commit to your development branch on GitHub when important changes happen
+4. Push your commits to GitHub remote
 
 ##### Deploy:
 
@@ -91,8 +87,9 @@ It is okay if your project has more files and more directories, but at the least
 To complete the assignment, you must complete the following:
 
 1. Use [JSON-Generator](https://www.json-generator.com/) to create random dummy JSON data, or if you already have data of your own, lint it through [JSONLint](https://jsonlint.com/) and store the file locally
-2. Create a single PHP webserver file that starts a connection on port 8080 on your localhost
-3. Point the webserver to the JSON file and view the data online via your [Public IP](https://www.whatismyip.com/)
+2. Or optionally, dynamically create random data using PHP and using [JSON_Encode()](https://www.php.net/manual/en/function.json-encode.php), create the JSON file in the script itself
+3. Create a single PHP webserver file that starts a connection on `localhost port 8080`
+4. Point the webserver to the JSON file and create a POST request to view the data online via your [Public IP](https://www.whatismyip.com/)
 
 #### Additional Requirements
 
