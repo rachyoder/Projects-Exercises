@@ -99,7 +99,7 @@ To complete the assignment, you must complete the following:
 3. Have a button that "shuffles" the board and that can be pressed at any time. This button should not accidentally solve the board.
 4. Be able to click on any piece and if it is able to be moved into a new spot, move that piece, otherwise, do nothing.
 5. If you click the final puzzle piece into place, the game should be able to display "winner" and let the user play again _and also_ allow the user to continue clicking the puzzle pieces to shuffle it themselves.
-6. All styling and image parsing must be done dynamically, including the win conditions. No hard coding.
+6. All image parsing must be done dynamically, including the win conditions. No hard coding.
 
 #### Additional Requirements
 
@@ -128,10 +128,10 @@ To complete the assignment, you must complete the following:
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
-- []()
+  <!-- - []() -->
 
-For more information about **_doing something_**, see these articles:
+For more information about images and state, see these articles:
 
-- []()
-- []()
-- []()
+- [Image Upload](https://www.w3schools.com/jsref/dom_obj_fileupload.asp)
+- [Drag and Drop](https://css-tricks.com/drag-and-drop-file-uploading/)
+- [Handling Events](https://eloquentjavascript.net/15_event.html)

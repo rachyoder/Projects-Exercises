@@ -19,7 +19,6 @@
 
 ### Finish content
 
-- [Sliding Puzzle](docs/sliding-puzzle.md)
 - [Attack of the Clones](docs/attack-of-the-clones.md)
 - [PHP (Pretty Hefty Payload) Part 1 - Viewer](docs/PHP-1.md)
 - [PHP (Pretty Hefty Payload) Part 2 - Parser](docs/PHP-2.md)
