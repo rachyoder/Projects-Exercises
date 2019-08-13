@@ -1,16 +1,16 @@
-# Phone Simmulator (Final Portfolio)
+# Widget Simmulator (Final Portfolio)
 
 ### Description
 
-Create a webpage that **_does something_**
+Create a webpage that simmulates a mobile or desktop layout with apps and widgets
 
-For this project we will be using **_something_**
+For this project we will be using react to componentize all our vanilla javascript projects, and laravel to add all of our react components to a home screen where users can decide what to click on.
 
 ### Table of contents
 
 <!--ts-->
 
-- [Project/Exercise Name](#Phone-Simmulator-(Final-Portfolio))
+- [Project/Exercise Name](<#Phone-Simmulator-(Final-Portfolio)>)
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
@@ -29,11 +29,12 @@ For this project we will be using **_something_**
 
 ### MVP
 
-By default, the app should **_do something_**
+By default, the app should show off your projects and exercises in a clean and concise format, and be able to be re-arranged in the code to create different layouts
 
 #### Wireframe
 
-![wireframe](../wireframes/widgets-screenshot.png)
+![wireframe](../wireframes/mobile-widgets.png)
+![wireframe](../wireframes/desktop-widgets.png)
 
 #### Tech Stack
 
@@ -94,7 +95,9 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Requirement 1
+1. Componentize each vanilla JS project with the following additional requirements:
+   - Clock and Countdown Timer will be one component with a prop that says which view to display, and a prop that is the start button for the countdown timer
+   -
 2. Requirement 2
 3. Requirement 3
 
@@ -124,7 +127,7 @@ To complete the assignment, you must complete the following:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-<!-- - [Learn JS](https://www.w3schools.com/js/) -->
+  <!-- - [Learn JS](https://www.w3schools.com/js/) -->
 - []()
 
 For more information about **_doing something_**, see these articles:

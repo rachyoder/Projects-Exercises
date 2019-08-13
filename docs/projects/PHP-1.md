@@ -29,7 +29,7 @@ For this project we will be using vanilla php to create a webserver
 
 ### MVP
 
-By default, the app should **_do something_**
+By default, the app should POST JSON data from your machine to the internet.
 
 #### Wireframe
 

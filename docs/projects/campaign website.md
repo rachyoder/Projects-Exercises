@@ -32,7 +32,7 @@ To keep things light and fun, pick issues that pertain to the character in their
 
 ### MVP
 
-By default, the app should **_do something_**
+By default, the app should show potential voters who the candiate is and have lots of different content; view the [Requirements](#Requirements) for more
 
 #### Wireframe
 

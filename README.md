@@ -19,7 +19,6 @@
 
 ### Finish content
 
-- [PHP (Pretty Hefty Payload) Part 2 - Parser](docs/PHP-2.md)
 - [Laravel Library](docs/laravel-library.md)
 - [Phone Simmulator (Final Portfolio)](docs/portfolio.md)
 

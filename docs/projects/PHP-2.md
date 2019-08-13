@@ -29,7 +29,7 @@ For this project we will be using **_something_**
 
 ### MVP
 
-By default, the app should **_do something_**
+By default, the app should GET JSON data from the internet to your machine
 
 #### Wireframe
 

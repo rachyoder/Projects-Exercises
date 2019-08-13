@@ -29,17 +29,21 @@ For this project we will be using **_something_**
 
 ### MVP
 
-By default, the app should **_do something_**
+By default, the app should let a Librarian maintain a simmulated library via a web interface that is connected to the Google Books API
 
 #### Wireframe
 
-![wireframe](../wireframes/wireframe.png)
+[library wireframes](../wireframes/library)
 
 #### Tech Stack
 
 1. HTML
 2. CSS
 3. JS
+4. React.JS
+5. MySQL
+6. PHP
+7. Laravel
 
 ### Process
 
@@ -94,9 +98,28 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Requirement 1
-2. Requirement 2
-3. Requirement 3
+1. Use the [Google Books API](https://developers.google.com/books/docs/v1/getting_started) to generate book content for users to check in and out from the library
+2. Store library card holders in your local MySQL database with the following database schema:
+
+Users
+
+- userid (string)
+- user name (string)
+- number of books currently checked out (integer)
+
+Books
+
+- bookid (string)
+- userid of user that currently has this book checked out (foreign key)
+- times the book has been checked out (integer)
+
+3. Full CRUD operations should be avaliable for `Users`
+4. Read access should be avaliable for `Books` (it is not possible to perform Create, Update, or Delete functions on the Google Books API) via GET requests
+5. Only save the books in the book table AFTER a user decides to check the book out. (no need to save all the books locally, that's what the API is for)
+6. Use React.js for creating components to put on Laravel Blades.
+7. Users do not need to be real people, this can be simmulated by you by clicking a "new user" button in the admin interface as a Librarian. (think 'library simmulator')
+8. Show all user and book statistics that are saved in database (for example: There are 3 users registered with the library, user "bob" has 2 books checked out: "Algorithms", and "Design Patterns", user "phil" has 0 books checked out, and user "sally" has 1 book checked out: "The Pragmatic Programmer") you can format this data however you'd like, we suggest a table with multiple tabs
+9. Be able to click any user or book and view the info as well as perform full CRUD where applicable.
 
 #### Additional Requirements
 
@@ -109,9 +132,8 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- stretch goal 1
-- stretch goal 2
-- stretch goal 3
+- Create a search bar for querying books from the Google Books API
+- Implement Laravel Auth using composer to create many "Librarians"
 
 #### If you finish early...
 
@@ -124,11 +146,8 @@ To complete the assignment, you must complete the following:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-- [Learn JS](https://www.w3schools.com/js/)
-- []()
 
 For more information about CRUD, see these articles:
 
 - [What is CRUD?](https://www.codecademy.com/articles/what-is-crud)
 - [Why is CRUD so Important?](http://trendintech.com/2018/01/19/why-is-crud-so-important-in-computer-programming/)
-- []()
