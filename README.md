@@ -1,25 +1,24 @@
 # Projects and Exercises
 
-- [Blog](docs/blog.md)
-- [Campaign Website](docs/campaign-website.md)
-- [Digital Clock](docs/digital-clock.md)
-- [Countdown Timer](docs/countdown-timer.md)
-- [Mind Reader](docs/mind-reader.md)
-- [Tic Tac Toe](docs/tic-tac-toe.md)
-- [Calculator](docs/calculator.md)
-- [Sliding Puzzle](docs/sliding-puzzle.md)
-- [Weather App](docs/weather-app.md)
-- [To Do List](docs/to-do-list.md)
-- [PHP (Pretty Hefty Payload) Part 1 - Viewer](docs/PHP-1.md)
-- [PHP (Pretty Hefty Payload) Part 2 - Parser](docs/PHP-2.md)
-- [Laravel Library](docs/laravel-library.md)
-- [Attack of the Clones](docs/attack-of-the-clones.md)
-- [Phone Simmulator (Final Portfolio)](docs/portfolio.md)
-- [Final Project](docs/final-project.md)
+- [Blog](docs/projects/blog.md)
+- [Campaign Website](docs/projects/campaign-website.md)
+- [Digital Clock](docs/projects/digital-clock.md)
+- [Countdown Timer](docs/projects/countdown-timer.md)
+- [Mind Reader](docs/projects/mind-reader.md)
+- [Tic Tac Toe](docs/projects/tic-tac-toe.md)
+- [Calculator](docs/projects/calculator.md)
+- [Sliding Puzzle](docs/projects/sliding-puzzle.md)
+- [Weather App](docs/projects/weather-app.md)
+- [To Do List](docs/projects/to-do-list.md)
+- [PHP (Pretty Hefty Payload) Part 1 - Viewer](docs/projects/PHP-1.md)
+- [PHP (Pretty Hefty Payload) Part 2 - Parser](docs/projects/PHP-2.md)
+- [Laravel Library](docs/projects/laravel-library.md)
+- [Attack of the Clones](docs/projects/attack-of-the-clones.md)
+- [Phone Simmulator (Final Portfolio)](docs/projects/portfolio.md)
+- [Final Project](docs/projects/final-project.md)
 
 ### Finish content
 
-- [Attack of the Clones](docs/attack-of-the-clones.md)
 - [PHP (Pretty Hefty Payload) Part 1 - Viewer](docs/PHP-1.md)
 - [PHP (Pretty Hefty Payload) Part 2 - Parser](docs/PHP-2.md)
 - [Laravel Library](docs/laravel-library.md)
@@ -28,7 +27,7 @@
 
 # Refactoring
 
-- [How to Upgrade to PHP](docs/php-refactor.md)
-- [How to Upgrade to React](docs/react-refactor.md)
-- [How to Upgrade to Laravel](docs/laravel-refactor.md)
-- [How to Upgrade to Vue.JS](docs/vue-refactor.md)
+- [How to Upgrade to React](docs/refactor/react.md)
+- [How to Upgrade to Laravel](docs/refactor/laravel.md)
+  <!-- - [How to Upgrade to PHP](docs/php-refactor.md) -->
+  <!-- - [How to Upgrade to Vue.JS](docs/vue-refactor.md) -->

@@ -2,9 +2,9 @@
 
 ### Description
 
-Create a webpage that **_does something_**
+Create a webpage that clones an already existing app
 
-For this project we will be using **_something_**
+For this project we will be using React.js to create components, and Laravel to create templates and pages. We will also be following the [Atomic Design Principles](https://patternlab.io)
 
 ### Table of contents
 
@@ -102,12 +102,15 @@ To complete the assignment, you must complete the following:
 2. Use React.js for creating components
 3. Use Laravel to create Templates (blades) to put the reusable components on for multiple pages (different type of blade, with imports for template blades)
 4. Have full CRUD functionality for at least one aspect of the site (does not need to be complicated)
-  - For example, in gmail:
-  - Create a new email in drafts (CREATE)
-  - Read an email by clicking on it (READ)
-  - Change the state from unread to read (UPDATE)
-  - Delete an email (DELETE)
+
+- For example, in gmail:
+- Create a new email in drafts (CREATE)
+- Read an email by clicking on it (READ)
+- Change the state from unread to read (UPDATE)
+- Delete an email (DELETE)
+
 5. Use a random text generator [API](http://www.randomtext.me/) _or_ [NPM package](https://www.npmjs.com/package/casual) to create random tweets/emails/usernames/trello cards etc...
+6. Be able to port this app onto your portfolio website either by adding a link or putting the files into your Laravel portfolio project
 
 #### Additional Requirements
 
@@ -136,7 +139,7 @@ To complete the assignment, you must complete the following:
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
   <!-- - [Learn JS](https://www.w3schools.com/js/) -->
-  <!-- - []() -->
+  - [Atomic Design Principles - book](http://atomicdesign.bradfrost.com/)
 
 For more information about clone apps, see these articles:
 
