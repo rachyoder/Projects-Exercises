@@ -20,7 +20,7 @@ We will also be following the Agile Scrum Methodology and working within the sco
   - [Tech Stack](#Tech-Stack)
 - [Process](#process)
   - [Setup](#Setup)
-  - [Application File Structure](#Application-File-Structure)
+    <!-- - [Application File Structure](#Application-File-Structure) -->
   - [Develop](#Develop)
   - [Deploy](#Deploy)
 - [Requirements](#Requirements)

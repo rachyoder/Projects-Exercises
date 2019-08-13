@@ -33,7 +33,7 @@ By default, the app should let a Librarian maintain a simmulated library via a w
 
 #### Wireframe
 
-[library wireframes](../wireframes/library)
+[Library Wireframes](../wireframes/library) - you do not need to copy these exactly, its just an idea
 
 #### Tech Stack
 

@@ -44,6 +44,10 @@ By default, the clone app should replicate the design and functionality of the r
 1. HTML
 2. CSS
 3. JS
+4. React.JS
+5. MySQL
+6. PHP
+7. Laravel
 
 ### Process
 

@@ -103,9 +103,10 @@ To complete the assignment, you must complete the following:
 7. Ability to check off or cross out all items in one click as a "completed all" function
 8. Ability to press a button and all items become active again
 9. Three "views" for the user:
-  - All to-do list items
-  - Only completed items
-  - Only active non-completed items
+
+- All to-do list items
+- Only completed items
+- Only active non-completed items
 
 #### Additional Requirements
 
@@ -118,9 +119,8 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- stretch goal 1
-- stretch goal 2
-- stretch goal 3
+- Use MySQL
+- Refactor into React.JS
 
 #### If you finish early...
 

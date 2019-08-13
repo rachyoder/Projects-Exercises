@@ -4,7 +4,7 @@
 
 Create a web site that helps you document your journey through the bootcamp by answering questions and creating posts
 
-For this project we will be adding new questions every week to the [blog-questions.md](blog-questions.md) file.
+For this project we will be adding new questions every week to the [blog-questions.md](../blog-questions.md) file.
 
 The purpose of this prohject is to not only let you have a way to look back on all your progress when the bootcamp finishes, but also see how different everyone decides to create their websites and work together to learn new techniques.
 
