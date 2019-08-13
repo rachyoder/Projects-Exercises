@@ -83,7 +83,7 @@ To complete the assignment, you must complete the following:
 
 1. Create a MVP document with all documentation strategies defined by Agile Software Development
 
-- Create user stories
+- Create user personas, user stories, MoSCoW, etc.
 - Design wireframes
 - Design database architecture
 - Add MVP to your projects README.md
