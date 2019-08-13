@@ -76,11 +76,11 @@ It is okay if your project has more files and more directories, but at the least
 
 ##### Develop:
 
-4. Create a `dev` branch to commit your code to
-1. Add content and elements to your website
-1. View changes and test locally
-1. Save often, and commit to your development branch on GitHub when important changes happen
-1. Push your commits to GitHub remote
+1. Create a `dev` branch to commit your code to
+2. Add content and elements to your website
+3. View changes and test locally
+4. Save often, and commit to your development branch on GitHub when important changes happen
+5. Push your commits to GitHub remote
 
 ##### Deploy:
 
@@ -135,7 +135,7 @@ Example:
 ```
 
 - Continue to store two numbers and the operator; only the display
-should change.
+  should change.
 - Allow an arbitrary amount of numbers and operators to be stored. (running log)
 - Accept keyboard input
 - Undo button

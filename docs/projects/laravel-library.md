@@ -76,11 +76,11 @@ It is okay if your project has more files and more directories, but at the least
 
 ##### Develop:
 
-4. Create a `dev` branch to commit your code to
-1. Add content and elements to your website
-1. View changes and test locally
-1. Save often, and commit to your development branch on GitHub when important changes happen
-1. Push your commits to GitHub remote
+1. Create a `dev` branch to commit your code to
+2. Add content and elements to your website
+3. View changes and test locally
+4. Save often, and commit to your development branch on GitHub when important changes happen
+5. Push your commits to GitHub remote
 
 ##### Deploy:
 
@@ -127,8 +127,8 @@ To complete the assignment, you must complete the following:
 - [Learn JS](https://www.w3schools.com/js/)
 - []()
 
-For more information about **_doing something_**, see these articles:
+For more information about CRUD, see these articles:
 
-- []()
-- []()
+- [What is CRUD?](https://www.codecademy.com/articles/what-is-crud)
+- [Why is CRUD so Important?](http://trendintech.com/2018/01/19/why-is-crud-so-important-in-computer-programming/)
 - []()

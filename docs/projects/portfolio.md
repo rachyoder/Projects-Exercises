@@ -33,7 +33,7 @@ By default, the app should **_do something_**
 
 #### Wireframe
 
-![wireframe](../wireframes/wireframe.png)
+![wireframe](../wireframes/widgets-screenshot.png)
 
 #### Tech Stack
 
@@ -76,11 +76,11 @@ It is okay if your project has more files and more directories, but at the least
 
 ##### Develop:
 
-4. Create a `dev` branch to commit your code to
-1. Add content and elements to your website
-1. View changes and test locally
-1. Save often, and commit to your development branch on GitHub when important changes happen
-1. Push your commits to GitHub remote
+1. Create a `dev` branch to commit your code to
+2. Add content and elements to your website
+3. View changes and test locally
+4. Save often, and commit to your development branch on GitHub when important changes happen
+5. Push your commits to GitHub remote
 
 ##### Deploy:
 
@@ -124,7 +124,7 @@ To complete the assignment, you must complete the following:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-- [Learn JS](https://www.w3schools.com/js/)
+<!-- - [Learn JS](https://www.w3schools.com/js/) -->
 - []()
 
 For more information about **_doing something_**, see these articles:

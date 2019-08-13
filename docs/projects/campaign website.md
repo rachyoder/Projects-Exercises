@@ -36,7 +36,7 @@ By default, the app should **_do something_**
 
 #### Wireframe
 
-![wireframe](../wireframes/wireframe.png)
+![wireframe](../wireframes/campaign-website.jpg)
 
 #### Tech Stack
 
@@ -79,11 +79,11 @@ It is okay if your project has more files and more directories, but at the least
 
 ##### Develop:
 
-4. Create a `dev` branch to commit your code to
-1. Add content and elements to your website
-1. View changes and test locally
-1. Save often, and commit to your development branch on GitHub when important changes happen
-1. Push your commits to GitHub remote
+1. Create a `dev` branch to commit your code to
+2. Add content and elements to your website
+3. View changes and test locally
+4. Save often, and commit to your development branch on GitHub when important changes happen
+5. Push your commits to GitHub remote
 
 ##### Deploy:
 
@@ -129,12 +129,12 @@ To complete the assignment, you must complete the following:
 #### Stretch Goals
 
 - Implement bootstrap components from this list that will enhance your site
-   - Carousel
-   - Jumbotron
-   - Nav/Navbar
-   - Progress
-   - Spinner
-   - Jumbotron
+  - Carousel
+  - Jumbotron
+  - Nav/Navbar
+  - Progress
+  - Spinner
+  - Jumbotron
 - Augment more Bootstrap Utilities to enhance your website
 - Download Bootstrap and compile via Sass instead of using CDN
 
@@ -152,7 +152,7 @@ To complete the assignment, you must complete the following:
 - [Learn JS](https://www.w3schools.com/js/)
 - [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 - [Pull Requests](https://stackoverflow.com/questions/21657430/why-is-a-git-pull-request-not-called-a-push-request)
-<!-- - []() -->
+  <!-- - []() -->
 
 For more information about content creation, see these articles:
 

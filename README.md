@@ -17,10 +17,8 @@
 - [Phone Simmulator (Final Portfolio)](docs/portfolio.md)
 - [Final Project](docs/final-project.md)
 
-
 ### Finish content
 
-- [Blog](docs/blog.md)
 - [Sliding Puzzle](docs/sliding-puzzle.md)
 - [Attack of the Clones](docs/attack-of-the-clones.md)
 - [PHP (Pretty Hefty Payload) Part 1 - Viewer](docs/PHP-1.md)
@@ -29,9 +27,7 @@
 - [Phone Simmulator (Final Portfolio)](docs/portfolio.md)
 - [Final Project](docs/final-project.md)
 
-
 # Refactoring
-### Need to do
 
 - [How to Upgrade to PHP](docs/php-refactor.md)
 - [How to Upgrade to React](docs/react-refactor.md)

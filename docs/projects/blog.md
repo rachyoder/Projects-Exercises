@@ -4,7 +4,7 @@
 
 Create a web site that helps you document your journey through the bootcamp by answering questions and creating posts
 
-For this project we will be adding new questions every week to the [blog-questions.md](blog-questions.md) file. 
+For this project we will be adding new questions every week to the [blog-questions.md](blog-questions.md) file.
 
 The purpose of this prohject is to not only let you have a way to look back on all your progress when the bootcamp finishes, but also see how different everyone decides to create their websites and work together to learn new techniques.
 
@@ -33,9 +33,9 @@ The purpose of this prohject is to not only let you have a way to look back on a
 
 By default, your blog should be able to be viewed online by others.
 
-#### Wireframe
+<!-- #### Wireframe
 
-![wireframe](../wireframes/wireframe.png)
+![wireframe](../wireframes/wireframe.png) -->
 
 #### Tech Stack
 
@@ -78,11 +78,11 @@ It is okay if your project has more files and more directories, but at the least
 
 ##### Develop:
 
-4. Create a `dev` branch to commit your code to
-1. Add content and elements to your website
-1. View changes and test locally
-1. Save often, and commit to your development branch on GitHub when important changes happen
-1. Push your commits to GitHub remote
+1. Create a `dev` branch to commit your code to
+2. Add content and elements to your website
+3. View changes and test locally
+4. Save often, and commit to your development branch on GitHub when important changes happen
+5. Push your commits to GitHub remote
 
 ##### Deploy:
 
@@ -111,9 +111,10 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- stretch goal 1
-- stretch goal 2
-- stretch goal 3
+- Refactor your blog into React.JS
+- Refactor your blog into Laravel
+- Host your blog on Google Cloud
+- Maintain your blog after the bootcamp ends
 
 #### If you finish early...
 
@@ -126,8 +127,8 @@ To complete the assignment, you must complete the following:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-- [Learn JS](https://www.w3schools.com/js/)
-<!-- - []() -->
+<!-- - [Learn JS](https://www.w3schools.com/js/) -->
+  <!-- - []() -->
 
 For more information about blogs, see these articles:
 
@@ -135,4 +136,4 @@ For more information about blogs, see these articles:
 - [Best Blogs to Read on Web Development](https://usersnap.com/blog/12-best-web-development-blogs-reading-right-now/)
 - [Blog Design Examples](https://bloggingpro.com/archives/2017/07/20/5-best-blog-design-examples-inspiration/)
 - [Blog Template Ideas](https://colorlib.com/wp/blog-website-templates/)
-<!-- - []() -->
+  <!-- - []() -->

@@ -2,9 +2,9 @@
 
 ### Description
 
-Create a webpage that **_does something_**
+Create a webpage that simulates a sliding puzzle
 
-For this project we will be using **_something_**
+For this project we will be using vanilla javascript to dynamically parse the image and render the puzzle pieces in real time.
 
 ### Table of contents
 
@@ -29,11 +29,11 @@ For this project we will be using **_something_**
 
 ### MVP
 
-By default, the app should **_do something_**
+By default, the app should allow a user to click on a tile and it move in a direction, until the puzzle reaches a win condition.
 
 #### Wireframe
 
-![wireframe](../wireframes/wireframe.png)
+![wireframe](../wireframes/sliding-puzzle.gif)
 
 #### Tech Stack
 
@@ -76,11 +76,11 @@ It is okay if your project has more files and more directories, but at the least
 
 ##### Develop:
 
-4. Create a `dev` branch to commit your code to
-1. Add content and elements to your website
-1. View changes and test locally
-1. Save often, and commit to your development branch on GitHub when important changes happen
-1. Push your commits to GitHub remote
+1. Create a `dev` branch to commit your code to
+2. Add content and elements to your website
+3. View changes and test locally
+4. Save often, and commit to your development branch on GitHub when important changes happen
+5. Push your commits to GitHub remote
 
 ##### Deploy:
 
@@ -94,9 +94,12 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Requirement 1
-2. Requirement 2
-3. Requirement 3
+1. Pass as input, any image for the puzzle app to upload to the site. This can be done with a drag and drop, or a "choose file" option, and should be able to happen at any time, not just once
+2. Dynamically parse the uploaded image into a 3 x 3 equal sized square grid leaving the bottom left hand corner out.
+3. Have a button that "shuffles" the board and that can be pressed at any time. This button should not accidentally solve the board.
+4. Be able to click on any piece and if it is able to be moved into a new spot, move that piece, otherwise, do nothing.
+5. If you click the final puzzle piece into place, the game should be able to display "winner" and let the user play again _and also_ allow the user to continue clicking the puzzle pieces to shuffle it themselves.
+6. All styling and image parsing must be done dynamically, including the win conditions. No hard coding.
 
 #### Additional Requirements
 
@@ -109,9 +112,9 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- stretch goal 1
-- stretch goal 2
-- stretch goal 3
+- Allow the puzzle to be any dimensions (5x4, 2x10, etc)
+- Allow the tiles to be any shape (triangle, hexagon, etc)
+- Make a [Rubik's Cube](https://www.google.com/logos/2014/rubiks/iframe/index.html)
 
 #### If you finish early...
 

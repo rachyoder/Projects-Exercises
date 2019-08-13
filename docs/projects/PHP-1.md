@@ -10,7 +10,7 @@ For this project we will be using **_something_**
 
 <!--ts-->
 
-- [Project/Exercise Name](#PHP-(Pretty-Hefty-Payload)-Part-1---Viewer)
+- [Project/Exercise Name](<#PHP-(Pretty-Hefty-Payload)-Part-1---Viewer>)
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
@@ -76,11 +76,11 @@ It is okay if your project has more files and more directories, but at the least
 
 ##### Develop:
 
-4. Create a `dev` branch to commit your code to
-1. Add content and elements to your website
-1. View changes and test locally
-1. Save often, and commit to your development branch on GitHub when important changes happen
-1. Push your commits to GitHub remote
+1. Create a `dev` branch to commit your code to
+2. Add content and elements to your website
+3. View changes and test locally
+4. Save often, and commit to your development branch on GitHub when important changes happen
+5. Push your commits to GitHub remote
 
 ##### Deploy:
 
@@ -124,11 +124,11 @@ To complete the assignment, you must complete the following:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-- [Learn JS](https://www.w3schools.com/js/)
-- []()
+- [Learn PHP](https://www.w3schools.com/php/)
+  <!-- - []() -->
 
-For more information about **_doing something_**, see these articles:
+For more information about PHP, see these articles:
 
-- []()
-- []()
-- []()
+- [Why Use PHP?](https://www.thoughtfulcode.com/why-use-php/)
+- [PHP vs HTML](https://www.upwork.com/hiring/development/php-vs-html/)
+- [PHP vs JS](https://www.guru99.com/php-vs-javascript.html)

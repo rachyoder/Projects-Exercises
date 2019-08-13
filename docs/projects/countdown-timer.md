@@ -6,7 +6,6 @@ Create a webpage that displays a countdown, in digital clock format
 
 For this project we will be using the Date object and setInterval / setTimeout
 
-
 ### Table of contents
 
 <!--ts-->
@@ -77,11 +76,11 @@ It is okay if your project has more files and more directories, but at the least
 
 ##### Develop:
 
-4. Create a `dev` branch to commit your code to
-1. Add content and elements to your website
-1. View changes and test locally
-1. Save often, and commit to your development branch on GitHub when important changes happen
-1. Push your commits to GitHub remote
+1. Create a `dev` branch to commit your code to
+2. Add content and elements to your website
+3. View changes and test locally
+4. Save often, and commit to your development branch on GitHub when important changes happen
+5. Push your commits to GitHub remote
 
 ##### Deploy:
 
@@ -98,7 +97,7 @@ To complete the assignment, you must complete the following:
 1. Display the time
 2. Make sure it updates every second without refreshing the page
 3. Stop the timer when countdown reaches 0
-<!-- 4. Requirement 4 -->
+   <!-- 4. Requirement 4 -->
 
 #### Additional Requirements
 
@@ -115,8 +114,8 @@ To complete the assignment, you must complete the following:
 - Accept user input for length of timer.
 - Play an audible alert when countdown reaches 0
   - Play the song!
-Make it look like an analog countdown timer
-<!-- - stretch goal 3 -->
+    Make it look like an analog countdown timer
+    <!-- - stretch goal 3 -->
 
 #### If you finish early...
 
@@ -130,10 +129,10 @@ Make it look like an analog countdown timer
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
-<!-- - []() -->
+  <!-- - []() -->
 
 For more information about JavaScript, see these articles:
 
 - [How JS works](https://fireship.io/courses/javascript/intro-how-js-works/)
 - [What is JS?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-<!-- - []() -->
+  <!-- - []() -->

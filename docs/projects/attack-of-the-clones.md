@@ -29,11 +29,15 @@ For this project we will be using **_something_**
 
 ### MVP
 
-By default, the app should **_do something_**
+By default, the clone app should replicate the design and functionality of the real app front end as closely as possible. The back end is not required to complete the project besides basic CRUD in one area of the app
 
 #### Wireframe
 
-![wireframe](../wireframes/wireframe.png)
+[Gmail wireframe](https://mail.google.com/mail/u/0/)
+[Twitter wireframe](https://twitter.com/awesome_inc)
+[Slack wireframe](https://app.slack.com/client/TKV4DCHDH/CL8LDQGTY)
+[Trello wireframe](https://trello.com/b/0Bn39pyt/bootcamp-f19)
+Or choose your own! (tell us first so we can approve it)
 
 #### Tech Stack
 
@@ -76,11 +80,11 @@ It is okay if your project has more files and more directories, but at the least
 
 ##### Develop:
 
-4. Create a `dev` branch to commit your code to
-1. Add content and elements to your website
-1. View changes and test locally
-1. Save often, and commit to your development branch on GitHub when important changes happen
-1. Push your commits to GitHub remote
+1. Create a `dev` branch to commit your code to
+2. Add content and elements to your website
+3. View changes and test locally
+4. Save often, and commit to your development branch on GitHub when important changes happen
+5. Push your commits to GitHub remote
 
 ##### Deploy:
 
@@ -94,9 +98,16 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Requirement 1
-2. Requirement 2
-3. Requirement 3
+1. Follow atomic design principles for deconstructing the original web app look and remaking the Atoms -> Molecules -> Organism (component)
+2. Use React.js for creating components
+3. Use Laravel to create Templates (blades) to put the reusable components on for multiple pages (different type of blade, with imports for template blades)
+4. Have full CRUD functionality for at least one aspect of the site (does not need to be complicated)
+  - For example, in gmail:
+  - Create a new email in drafts (CREATE)
+  - Read an email by clicking on it (READ)
+  - Change the state from unread to read (UPDATE)
+  - Delete an email (DELETE)
+5. Use a random text generator [API](http://www.randomtext.me/) _or_ [NPM package](https://www.npmjs.com/package/casual) to create random tweets/emails/usernames/trello cards etc...
 
 #### Additional Requirements
 
@@ -109,9 +120,9 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- stretch goal 1
-- stretch goal 2
-- stretch goal 3
+- Connect your app to a server to have multiple people be able to log in and use it at the same time (gmail clone users can email each other, twitter clone users can @ and follow each other, etc)
+  <!-- - stretch goal 2 -->
+  <!-- - stretch goal 3 -->
 
 #### If you finish early...
 
@@ -124,11 +135,12 @@ To complete the assignment, you must complete the following:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-- [Learn JS](https://www.w3schools.com/js/)
-- []()
+  <!-- - [Learn JS](https://www.w3schools.com/js/) -->
+  <!-- - []() -->
 
-For more information about **_doing something_**, see these articles:
+For more information about clone apps, see these articles:
 
-- []()
-- []()
-- []()
+- [What is an app clone?](https://www.quora.com/What-is-an-app-Clone)
+- [How much does Uber cost?](https://thinkmobiles.com/blog/how-much-cost-make-app-like-uber/)
+- [When You Can’t Innovate, Copy](https://hbr.org/2012/05/when-you-cant-innovate-copy)
+- [The Copycats Of Silicon Valley](https://www.inc.com/yazin-akkawi/why-are-silicon-valley-companies-copying-each-other.html)

@@ -2,9 +2,11 @@
 
 ### Description
 
-Create a webpage that **_does something_**
+Create a web app that uses all the technologies learned throughout the bootcamp
 
-For this project we will be using **_something_**
+For this project we will be using Laravel, React.js and bootstrap for styling.
+
+We will also be following the Agile Scrum Methodology and working within the scope of one sprint
 
 ### Table of contents
 
@@ -14,7 +16,7 @@ For this project we will be using **_something_**
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
-  - [Wireframe](#Wireframe)
+  <!-- - [Wireframe](#Wireframe) -->
   - [Tech Stack](#Tech-Stack)
 - [Process](#process)
   - [Setup](#Setup)
@@ -29,17 +31,22 @@ For this project we will be using **_something_**
 
 ### MVP
 
-By default, the app should **_do something_**
+By default, your app should use all the technologies learned throughout the bootcamp.
 
-#### Wireframe
+<!-- #### Wireframe
 
-![wireframe](../wireframes/wireframe.png)
+![wireframe](../wireframes/wireframe.png) -->
 
 #### Tech Stack
 
 1. HTML
 2. CSS
 3. JS
+4. React.JS
+5. PHP
+6. MySQL
+7. Laravel
+8. Google Cloud
 
 ### Process
 
@@ -48,39 +55,19 @@ By default, the app should **_do something_**
 1. Create repo, for example: `my-app`
 2. Locally, navigate to your `sites` folder in the terminal
 3. `git clone` + `your-repo-name` into your Sites folder
-4. Create necessary files for application and view in VS Code
-   - Run shell script to expedite process unless you are using a framework
-   - _If you are using a framework, disregard the "Application File Structure" section_
+4. Create necessary files for application via command line and view in VS Code
+   <!-- - Run shell script to expedite process unless you are using a framework -->
+   <!-- - _If you are using a framework, disregard the "Application File Structure" section_ -->
 5. Import and route necessary css/js files (E.g. Bootstrap)
 6. Save all and create your first commit to `master`
 
-###### Application File Structure
-
-Minimally:
-
-```
-web/
-    index.html - main page
-    css/ - folder to contain CSS files
-        /style.css - stylesheet
-    img/ - folder to contain any images
-    js/ - folder to contain JavaScript files
-        /main.js
-README.md - any important information
-.gitignore - file that omits any directory/file from being tracked
-```
-
-Additional pages will be relative to the index.html file.
-
-It is okay if your project has more files and more directories, but at the least you need the ones listed above.
-
 ##### Develop:
 
-4. Create a `dev` branch to commit your code to
-1. Add content and elements to your website
-1. View changes and test locally
-1. Save often, and commit to your development branch on GitHub when important changes happen
-1. Push your commits to GitHub remote
+1. Create a `dev` branch to commit your code to
+2. Add content and elements to your website
+3. View changes and test locally
+4. Save often, and commit to your development branch on GitHub when important changes happen
+5. Push your commits to GitHub remote
 
 ##### Deploy:
 
@@ -94,9 +81,18 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Requirement 1
-2. Requirement 2
-3. Requirement 3
+1. Create a MVP document with all documentation strategies defined by Agile Software Development
+
+- Create user stories
+- Design wireframes
+- Design database architecture
+- Add MVP to your projects README.md
+
+2. Create a Full Stack Web App using all the technologies learned throughout the bootcamp
+3. Have full CRUD functionality
+4. Use React.js for components and front end functionality
+5. Use Laravel for blades and back end connectivity
+6. Use Google Cloud and Firebase for site and database hosting
 
 #### Additional Requirements
 
@@ -109,9 +105,11 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- stretch goal 1
-- stretch goal 2
-- stretch goal 3
+- Hit an API
+- Use NPM for new packages
+- Learn a new framework for front end development
+- Learn a new framework for back end development
+- Continue to maintain your app after the bootcamp ends
 
 #### If you finish early...
 
@@ -124,11 +122,11 @@ To complete the assignment, you must complete the following:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-- [Learn JS](https://www.w3schools.com/js/)
-- []()
+  <!-- - [Learn JS](https://www.w3schools.com/js/) -->
+  <!-- - []() -->
 
-For more information about **_doing something_**, see these articles:
+For more information about app ideas, see these articles:
 
-- []()
-- []()
-- []()
+- [How To Get New App Ideas](https://www.entrepreneur.com/article/278369)
+- [Startup Idea Generator](https://www.kamogo.com/5)
+- [Terrible Startup Ideas](https://www.redbull.com/nz-en/weirdest-worst-tech-startup-ideas)

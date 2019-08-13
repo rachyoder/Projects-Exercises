@@ -10,7 +10,7 @@ For this project we will be using **_something_**
 
 <!--ts-->
 
-- [Project/Exercise Name](#PHP-(Pretty-Hefty-Payload)-Part-2---Parser)
+- [Project/Exercise Name](<#PHP-(Pretty-Hefty-Payload)-Part-2---Parser>)
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
@@ -76,11 +76,11 @@ It is okay if your project has more files and more directories, but at the least
 
 ##### Develop:
 
-4. Create a `dev` branch to commit your code to
-1. Add content and elements to your website
-1. View changes and test locally
-1. Save often, and commit to your development branch on GitHub when important changes happen
-1. Push your commits to GitHub remote
+1. Create a `dev` branch to commit your code to
+2. Add content and elements to your website
+3. View changes and test locally
+4. Save often, and commit to your development branch on GitHub when important changes happen
+5. Push your commits to GitHub remote
 
 ##### Deploy:
 
@@ -124,11 +124,12 @@ To complete the assignment, you must complete the following:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-- [Learn JS](https://www.w3schools.com/js/)
-- []()
+- [Learn PHP](https://www.w3schools.com/php/)
+  <!-- - []() -->
 
 For more information about **_doing something_**, see these articles:
 
-- []()
-- []()
-- []()
+- [Why use a Database?](https://softwareengineering.stackexchange.com/questions/190482/why-use-a-database-instead-of-just-saving-your-data-to-disk)
+- [SQL Injection 1 (video)](https://www.youtube.com/watch?v=ciNHn38EyRc)
+- [SQL Injection 2](https://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php?rq=1)
+- [SQL Good Queries](https://www.datacamp.com/community/tutorials/sql-tutorial-query)

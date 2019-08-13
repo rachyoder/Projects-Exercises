@@ -5,8 +5,8 @@
 Create a webpage that recreates the childhood classic game, tic-tac-toe, in JavaScript.
 
 See [https://en.wikipedia.org/wiki/Tic-tac-toe](https://en.wikipedia.org/wiki/Tic-tac-toe) for more information.
-<!-- For this project we will be using **_something_** -->
 
+<!-- For this project we will be using **_something_** -->
 
 ### Table of contents
 
@@ -85,11 +85,11 @@ It is okay if your project has more files and more directories, but at the least
 
 ##### Develop:
 
-4. Create a `dev` branch to commit your code to
-1. Add content and elements to your website
-1. View changes and test locally
-1. Save often, and commit to your development branch on GitHub when important changes happen
-1. Push your commits to GitHub remote
+1. Create a `dev` branch to commit your code to
+2. Add content and elements to your website
+3. View changes and test locally
+4. Save often, and commit to your development branch on GitHub when important changes happen
+5. Push your commits to GitHub remote
 
 ##### Deploy:
 
@@ -119,14 +119,12 @@ To complete the assignment, you must complete the following:
   - Potential employers will view your GitHub profile, so activity is crucial!
 
 #### Stretch Goals
+
 - Allow players to enter their names.
 - Keep track of number of games won by X and O.
 - Add a link to rules, display in a modal.
-- Recreate Checkers.
-- Recreate Othello.
-- Recreate Go.
+- [Create an AI that can "learn" how to play to win](https://www.youtube.com/watch?v=R9c-_neaxeU)
 - Recreate Chess.
-- Create an AI to beat whoever plays, every time.
 
 #### If you finish early...
 
@@ -140,10 +138,10 @@ To complete the assignment, you must complete the following:
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
-<!-- - []() -->
+  <!-- - []() -->
 
 For more information about games and code, see these articles:
 
 - [AlphaGo - Netflix](https://www.netflix.com/title/80190844?s=i&trkid=13747225)
 - [Are Computers Playing Games With Us?](https://www.huffpost.com/entry/computer-game-intelligence_b_1396377)
-<!-- - []() -->
+  <!-- - []() -->
