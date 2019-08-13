@@ -33,11 +33,11 @@ By default, the clone app should replicate the design and functionality of the r
 
 #### Wireframe
 
-[Gmail wireframe](https://mail.google.com/mail/u/0/)
-[Twitter wireframe](https://twitter.com/awesome_inc)
-[Slack wireframe](https://app.slack.com/client/TKV4DCHDH/CL8LDQGTY)
-[Trello wireframe](https://trello.com/b/0Bn39pyt/bootcamp-f19)
-Or choose your own! (tell us first so we can approve it)
+- [Gmail wireframe](https://mail.google.com/mail/u/0/)
+- [Twitter wireframe](https://twitter.com/awesome_inc)
+- [Slack wireframe](https://app.slack.com/client/TKV4DCHDH/CL8LDQGTY)
+- [Trello wireframe](https://trello.com/b/0Bn39pyt/bootcamp-f19)
+- Or choose your own! (tell us first so we can approve it)
 
 #### Tech Stack
 
@@ -52,31 +52,11 @@ Or choose your own! (tell us first so we can approve it)
 1. Create repo, for example: `my-app`
 2. Locally, navigate to your `sites` folder in the terminal
 3. `git clone` + `your-repo-name` into your Sites folder
-4. Create necessary files for application and view in VS Code
-   - Run shell script to expedite process unless you are using a framework
-   - _If you are using a framework, disregard the "Application File Structure" section_
+4. Create necessary files for application and view in VS Code via CLI
+   <!-- - Run shell script to expedite process unless you are using a framework -->
+   <!-- - _If you are using a framework, disregard the "Application File Structure" section_ -->
 5. Import and route necessary css/js files (E.g. Bootstrap)
 6. Save all and create your first commit to `master`
-
-###### Application File Structure
-
-Minimally:
-
-```
-web/
-    index.html - main page
-    css/ - folder to contain CSS files
-        /style.css - stylesheet
-    img/ - folder to contain any images
-    js/ - folder to contain JavaScript files
-        /main.js
-README.md - any important information
-.gitignore - file that omits any directory/file from being tracked
-```
-
-Additional pages will be relative to the index.html file.
-
-It is okay if your project has more files and more directories, but at the least you need the ones listed above.
 
 ##### Develop:
 
@@ -98,7 +78,10 @@ It is okay if your project has more files and more directories, but at the least
 
 To complete the assignment, you must complete the following:
 
-1. Follow atomic design principles for deconstructing the original web app look and remaking the Atoms -> Molecules -> Organism (component)
+1. Follow atomic design principles for deconstructing the original web app look
+
+   - Atoms -> Molecules -> Organism (component)
+
 2. Use React.js for creating components
 3. Use Laravel to create Templates (blades) to put the reusable components on for multiple pages (different type of blade, with imports for template blades)
 4. Have full CRUD functionality for at least one aspect of the site (does not need to be complicated)
@@ -139,7 +122,7 @@ To complete the assignment, you must complete the following:
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
   <!-- - [Learn JS](https://www.w3schools.com/js/) -->
-  - [Atomic Design Principles - book](http://atomicdesign.bradfrost.com/)
+- [Atomic Design Principles - book](http://atomicdesign.bradfrost.com/)
 
 For more information about clone apps, see these articles:
 

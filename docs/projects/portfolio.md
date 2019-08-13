@@ -33,7 +33,9 @@ By default, the app should show off your projects and exercises in a clean and c
 
 #### Wireframe
 
+Option 1
 ![wireframe](../wireframes/mobile-widgets.png)
+Option 2
 ![wireframe](../wireframes/desktop-widgets.png)
 
 #### Tech Stack
@@ -41,6 +43,10 @@ By default, the app should show off your projects and exercises in a clean and c
 1. HTML
 2. CSS
 3. JS
+4. React.JS
+5. MySQL
+6. PHP
+7. Laravel
 
 ### Process
 
@@ -97,7 +103,7 @@ To complete the assignment, you must complete the following:
 
 1. Componentize each vanilla JS project with the following additional requirements:
    - Clock and Countdown Timer will be one component with a prop that says which view to display, and a prop that is the start button for the countdown timer
-   -
+   - etc (need to finish)
 2. Requirement 2
 3. Requirement 3
 

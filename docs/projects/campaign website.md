@@ -42,7 +42,6 @@ By default, the app should show potential voters who the candiate is and have lo
 
 1. HTML
 2. CSS
-3. JS
 
 ### Process
 
@@ -67,8 +66,6 @@ web/
     css/ - folder to contain CSS files
         /style.css - stylesheet
     img/ - folder to contain any images
-    js/ - folder to contain JavaScript files
-        /main.js
 README.md - any important information
 .gitignore - file that omits any directory/file from being tracked
 ```
@@ -99,7 +96,7 @@ To complete the assignment, you must complete the following:
 
 1. Your website should introduce the public to your candidate, explain why they are running, and list three issues that are important to them.
 2. Website must contain at least [3 distinct organisms](https://patternlab.io/) that you create using the following:
-   1. Choose at least Four Bootstrap Components to include from this list:
+   1. Choose at least Four [Bootstrap Components](https://getbootstrap.com/docs/4.3/components/) to include from this list:
       - Badge
       - Button
       - Caption
@@ -110,7 +107,7 @@ To complete the assignment, you must complete the following:
       - Media Object
       - Popovers
       - Tooltip
-   2. Augment Five Bootstrap Utilities to suit the needs of your website
+   2. Augment Five [Bootstrap Utilities](https://getbootstrap.com/docs/4.3/utilities) to suit the needs of your website
 3. A few (more than 3) prominent pictures of your candidate
 4. A table displaying important information for voters
 5. A call to action - election day is November 5!

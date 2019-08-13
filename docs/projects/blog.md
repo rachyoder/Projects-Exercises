@@ -41,7 +41,6 @@ By default, your blog should be able to be viewed online by others.
 
 1. HTML
 2. CSS
-3. JS
 
 ### Process
 
@@ -66,8 +65,6 @@ web/
     css/ - folder to contain CSS files
         /style.css - stylesheet
     img/ - folder to contain any images
-    js/ - folder to contain JavaScript files
-        /main.js
 README.md - any important information
 .gitignore - file that omits any directory/file from being tracked
 ```
@@ -111,7 +108,9 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
+- Use JS to dynamically render the blog
 - Refactor your blog into React.JS
+- Use MySQL to store your blog posts
 - Refactor your blog into Laravel
 - Host your blog on Google Cloud
 - Maintain your blog after the bootcamp ends
@@ -127,8 +126,8 @@ To complete the assignment, you must complete the following:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-<!-- - [Learn JS](https://www.w3schools.com/js/) -->
-  <!-- - []() -->
+  <!-- - [Learn JS](https://www.w3schools.com/js/) -->
+    <!-- - []() -->
 
 For more information about blogs, see these articles:
 
