@@ -1,9 +1,3 @@
-### General
-
-- [Resources](https://github.com/bootcamp-students/Resources)
-- [Blog Questions](docs/blog-questions.md)
-- [Everyones Blogs](docs/everyones-blogs.md)
-
 # Projects and Exercises
 
 - [Blog](docs/projects/blog.md)
@@ -29,6 +23,13 @@
 - [How to Upgrade to Laravel](docs/refactor/laravel.md)
   <!-- - [How to Upgrade to PHP](docs/php-refactor.md) -->
   <!-- - [How to Upgrade to Vue.JS](docs/vue-refactor.md) -->
+
+### General
+
+- [Resources](https://github.com/bootcamp-students/Resources)
+- [Blog Questions](docs/blog-questions.md)
+- [Everyones Blogs](docs/everyones-blogs.md)
+
 <!-- 
 ### Finish content
 
