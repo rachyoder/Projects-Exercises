@@ -33,7 +33,7 @@ By default, the app should allow a user to click on a tile and it move in a dire
 
 #### Wireframe
 
-![wireframe](../wireframes/sliding-puzzle.gif)
+![wireframe](../wireframes/sliding-puzzle.jpg)
 
 #### Tech Stack
 
@@ -95,7 +95,7 @@ It is okay if your project has more files and more directories, but at the least
 To complete the assignment, you must complete the following:
 
 1. Pass as input, any image for the puzzle app to upload to the site. This can be done with a drag and drop, or a "choose file" option, and should be able to happen at any time, not just once
-2. Dynamically parse the uploaded image into a 3 x 3 equal sized square grid leaving the bottom left hand corner out.
+2. Dynamically parse the uploaded image into a 4 x 4 equal sized square grid leaving the bottom left hand corner out.
 3. Have a button that "shuffles" the board and that can be pressed at any time. This button should not accidentally solve the board.
 4. Be able to click on any piece and if it is able to be moved into a new spot, move that piece, otherwise, do nothing.
 5. If you click the final puzzle piece into place, the game should be able to display "winner" and let the user play again _and also_ allow the user to continue clicking the puzzle pieces to shuffle it themselves.
@@ -112,8 +112,11 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- Allow the puzzle to be any dimensions (5x4, 2x10, etc)
-- Allow the tiles to be any shape (triangle, hexagon, etc)
+- Add arrow key integration instead of clicking the tile
+- Allow the [puzzle to be any dimensions based on the aspect ratio of the image (6x6, 5x4, 2x10, etc)](https://malaysia.timbangharga.com/cf/700/cdn/HTB17dx8m4PI8KJjSspfq6ACFXXaB/Tetris-worlds-Sliding-Puzzle-Colorful-Wooden-Tangram-Brain-Teaser-Puzzle-Toys-Game-for-Baby-Child-Kids.jpg)
+- Allow the [tiles to be any dimension (1x2, L, etc)](https://www.michaelfogleman.com/rush/)
+- Allow the [tiles to be any shape (triangle, hexagon, etc)](https://wittingen-puzzels.jimdo.com/)
+- Make [2048](https://play2048.co/)
 - Make a [Rubik's Cube](https://www.google.com/logos/2014/rubiks/iframe/index.html)
 
 #### If you finish early...
