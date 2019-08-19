@@ -4,7 +4,7 @@
 
 You've been asked to design a website for a new restaurant opening at 348 E. Main St., Lexington, KY. The owners are busy working on their recipes and haven't picked a name yet, so they've asked you to suggest one and use it in your design.
 
-The owners are still working on their recipes. They've populated an API with possible choices. You are to use the API to generate a sample menu to add to your website. The API's URL is:[https://entree-f18.herokuapp.com/](https://entree-f18.herokuapp.com/).
+The owners are still working on their recipes. They've populated an API with possible choices. You are to use the API to generate a sample menu to add to your website. The API URL is:[https://entree-f18.herokuapp.com/](https://entree-f18.herokuapp.com/).
 
 ### Website Content
 
@@ -52,10 +52,7 @@ To complete the assignment, you must complete the following:
 
 ###### Deploy:
 
-<!-- 1. Create Heroku App with existing repo `heroku git\:remote -a yourproject2` -->
-
 1. Push your code to Github remote
-   <!-- 3. Push your code to Heroku remote -->
 2. View your website on your laptop and phone
 3. Post links to your Github repo to the Projects and Exercises Slack channel
 
@@ -88,7 +85,7 @@ your-repo/
 1. Create Wireframe and any extra documentation
 2. Create Personas and Stories w/ points
 3. Pseudocode the layout of your html and js (what needs to be done)
-4. pseudocode the functions you will need in js (how things need to be done) (these should be your stories)
+4. Pseudocode the functions you will need in js (how things need to be done) (these should be your stories)
 5. fork, clone, create dev branch, create file structure, find pictures, understand api,
 
 #### On Monday
@@ -124,7 +121,7 @@ Have fun!
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Ask. :-)
 
-**Additional Resouces**
+**Additional Resources**
 
 - [Pull Requests](https://stackoverflow.com/questions/21657430/why-is-a-git-pull-request-not-called-a-push-request)
 

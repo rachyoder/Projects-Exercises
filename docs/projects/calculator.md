@@ -24,7 +24,7 @@ For this project we will be using math
 - [Requirements](#Requirements)
   - [Additional Requirements](#Additional-Requirements)
   - [Stretch Goals](#Stretch-Goals)
-- [Additional Resouces](#Additional-Resouces)
+- [Additional Resources](#Additional-Resources)
   <!--te-->
 
 ### MVP
@@ -62,17 +62,17 @@ Minimally:
 web/
     index.html - main page
     css/ - folder to contain CSS files
-        /style.css - stylesheet
+        style.css - main stylesheet
     img/ - folder to contain any images
     js/ - folder to contain JavaScript files
-        /main.js
+        main.js - main JavaScript file
 README.md - any important information
 .gitignore - file that omits any directory/file from being tracked
 ```
 
 Additional pages will be relative to the index.html file.
 
-It is okay if your project has more files and more directories, but at the least you need the ones listed above.
+It is okay if your project has more files and directories, but you at least need the ones listed above.
 
 ##### Develop:
 
@@ -107,9 +107,9 @@ To complete the assignment, you must complete the following:
 5. The calculator should have 10 number buttons, `0-9`.
 6. The calculator should have a decimal button `.`
 7. The calculator should store three values internally:
-   - The first number entered by the user (possibly multidigit and decimal)
+   - The first number entered by the user (possibly multi-digit and decimal)
    - The operator selected by the user `/`, `x`, `-`, `+`
-   - The second number entered by the user (possibly multidigit and decimal)
+   - The second number entered by the user (possibly multi-digit and decimal)
 8. The display area should update as a user presses number buttons.
 9. When the user clicks a function button after the first and second values are entered (instead of `=`), the result of the calculation should be saved and the calculator should allow for a new number input (for example: `1` then `+` then `3` then `-`, etc.)
 10. When the calculate button `=` is pressed, the calculator should apply the operation to the two stored numbers in the appropriate order (important for subtraction and division) and update the display.
@@ -149,7 +149,7 @@ Example:
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-### Additional Resouces
+### Additional Resources
 
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)

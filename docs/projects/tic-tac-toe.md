@@ -26,7 +26,7 @@ See [https://en.wikipedia.org/wiki/Tic-tac-toe](https://en.wikipedia.org/wiki/Ti
 - [Requirements](#Requirements)
   - [Additional Requirements](#Additional-Requirements)
   - [Stretch Goals](#Stretch-Goals)
-- [Additional Resouces](#Additional-Resouces)
+- [Additional Resources](#Additional-Resources)
   <!--te-->
 
 ### MVP
@@ -42,7 +42,7 @@ By default, the app should do the following
 
 #### Wireframe
 
-![wireframe-js-tictactoe.png](../wireframes/tic-tac-toe.png)
+![wireframe-js-tic-tac-toe.png](../wireframes/tic-tac-toe.png)
 
 #### Tech Stack
 
@@ -71,17 +71,17 @@ Minimally:
 web/
     index.html - main page
     css/ - folder to contain CSS files
-        /style.css - stylesheet
+        style.css - main stylesheet
     img/ - folder to contain any images
     js/ - folder to contain JavaScript files
-        /main.js
+        main.js - main JavaScript file
 README.md - any important information
 .gitignore - file that omits any directory/file from being tracked
 ```
 
 Additional pages will be relative to the index.html file.
 
-It is okay if your project has more files and more directories, but at the least you need the ones listed above.
+It is okay if your project has more files and directories, but you at least need the ones listed above.
 
 ##### Develop:
 
@@ -104,7 +104,7 @@ It is okay if your project has more files and more directories, but at the least
 To complete the assignment, you must complete the following:
 
 1. The board should be dynamically rendered
-2. The game should let the players know whos turn it is
+2. The game should let the players know who's turn it is
 3. Game tiles should only be clickable once
 4. The game should display who wins the game if someone wins, otherwise say that the game resulted in a tie
 5. Include a Restart Game button that does not refresh the page, only reset the game
@@ -132,7 +132,7 @@ To complete the assignment, you must complete the following:
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-### Additional Resouces
+### Additional Resources
 
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)

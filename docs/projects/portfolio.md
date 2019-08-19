@@ -1,8 +1,8 @@
-# Widget Simmulator (Final Portfolio)
+# Widget Simulator (Final Portfolio)
 
 ### Description
 
-Create a webpage that simmulates a mobile or desktop layout with apps and widgets
+Create a webpage that simulates a mobile or desktop layout with apps and widgets
 
 For this project we will be using react to componentize all our vanilla javascript projects, and laravel to add all of our react components to a home screen where users can decide what to click on.
 
@@ -10,7 +10,7 @@ For this project we will be using react to componentize all our vanilla javascri
 
 <!--ts-->
 
-- [Project/Exercise Name](<#Phone-Simmulator-(Final-Portfolio)>)
+- [Project/Exercise Name](<#Phone-Simulator-(Final-Portfolio)>)
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
@@ -18,13 +18,12 @@ For this project we will be using react to componentize all our vanilla javascri
   - [Tech Stack](#Tech-Stack)
 - [Process](#process)
   - [Setup](#Setup)
-  - [Application File Structure](#Application-File-Structure)
   - [Develop](#Develop)
   - [Deploy](#Deploy)
 - [Requirements](#Requirements)
   - [Additional Requirements](#Additional-Requirements)
   - [Stretch Goals](#Stretch-Goals)
-- [Additional Resouces](#Additional-Resouces)
+- [Additional Resources](#Additional-Resources)
   <!--te-->
 
 ### MVP
@@ -55,31 +54,9 @@ Option 2
 1. Create repo, for example: `my-app`
 2. Locally, navigate to your `sites` folder in the terminal
 3. `git clone` + `your-repo-name` into your Sites folder
-4. Create necessary files for application and view in VS Code
-   - Run shell script to expedite process unless you are using a framework
-   - _If you are using a framework, disregard the "Application File Structure" section_
+4. Create necessary files for application and view in VS Code via Composer CLI
 5. Import and route necessary css/js files (E.g. Bootstrap)
 6. Save all and create your first commit to `master`
-
-###### Application File Structure
-
-Minimally:
-
-```
-web/
-    index.html - main page
-    css/ - folder to contain CSS files
-        /style.css - stylesheet
-    img/ - folder to contain any images
-    js/ - folder to contain JavaScript files
-        /main.js
-README.md - any important information
-.gitignore - file that omits any directory/file from being tracked
-```
-
-Additional pages will be relative to the index.html file.
-
-It is okay if your project has more files and more directories, but at the least you need the ones listed above.
 
 ##### Develop:
 
@@ -128,7 +105,7 @@ To complete the assignment, you must complete the following:
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-### Additional Resouces
+### Additional Resources
 
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)

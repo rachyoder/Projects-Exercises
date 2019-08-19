@@ -27,12 +27,12 @@ To keep things light and fun, pick issues that pertain to the character in their
 - [Requirements](#Requirements)
   - [Additional Requirements](#Additional-Requirements)
   - [Stretch Goals](#Stretch-Goals)
-- [Additional Resouces](#Additional-Resouces)
+- [Additional Resources](#Additional-Resources)
   <!--te-->
 
 ### MVP
 
-By default, the app should show potential voters who the candiate is and have lots of different content; view the [Requirements](#Requirements) for more
+By default, the app should show potential voters who the candidate is and have lots of different content; view the [Requirements](#Requirements) for more
 
 #### Wireframe
 
@@ -51,8 +51,8 @@ By default, the app should show potential voters who the candiate is and have lo
 2. Locally, navigate to your `sites` folder in the terminal
 3. `git clone` + `your-repo-name` into your Sites folder
 4. Create necessary files for application and view in VS Code
-   - Run shell script to expedite process unless you are using a framework
-   - _If you are using a framework, disregard the "Application File Structure" section_
+   <!-- - Run shell script to expedite process unless you are using a framework -->
+   <!-- - _If you are using a framework, disregard the "Application File Structure" section_ -->
 5. Import and route necessary css/js files (E.g. Bootstrap)
 6. Save all and create your first commit to `master`
 
@@ -64,7 +64,7 @@ Minimally:
 web/
     index.html - main page
     css/ - folder to contain CSS files
-        /style.css - stylesheet
+        style.css - stylesheet
     img/ - folder to contain any images
 README.md - any important information
 .gitignore - file that omits any directory/file from being tracked
@@ -72,7 +72,7 @@ README.md - any important information
 
 Additional pages will be relative to the index.html file.
 
-It is okay if your project has more files and more directories, but at the least you need the ones listed above.
+It is okay if your project has more files and directories, but you at least need the ones listed above.
 
 ##### Develop:
 
@@ -141,7 +141,7 @@ To complete the assignment, you must complete the following:
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-### Additional Resouces
+### Additional Resources
 
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)

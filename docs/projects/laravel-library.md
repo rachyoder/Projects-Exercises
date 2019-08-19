@@ -18,18 +18,17 @@ For this project we will be using **_something_**
   - [Tech Stack](#Tech-Stack)
 - [Process](#process)
   - [Setup](#Setup)
-  - [Application File Structure](#Application-File-Structure)
   - [Develop](#Develop)
   - [Deploy](#Deploy)
 - [Requirements](#Requirements)
   - [Additional Requirements](#Additional-Requirements)
   - [Stretch Goals](#Stretch-Goals)
-- [Additional Resouces](#Additional-Resouces)
+- [Additional Resources](#Additional-Resources)
   <!--te-->
 
 ### MVP
 
-By default, the app should let a Librarian maintain a simmulated library via a web interface that is connected to the Google Books API
+By default, the app should let a Librarian maintain a simulated library via a web interface that is connected to the Google Books API
 
 #### Wireframe
 
@@ -52,31 +51,9 @@ By default, the app should let a Librarian maintain a simmulated library via a w
 1. Create repo, for example: `my-app`
 2. Locally, navigate to your `sites` folder in the terminal
 3. `git clone` + `your-repo-name` into your Sites folder
-4. Create necessary files for application and view in VS Code
-   - Run shell script to expedite process unless you are using a framework
-   - _If you are using a framework, disregard the "Application File Structure" section_
+4. Create necessary files for application and view in VS Code via Composer CLI
 5. Import and route necessary css/js files (E.g. Bootstrap)
 6. Save all and create your first commit to `master`
-
-###### Application File Structure
-
-Minimally:
-
-```
-web/
-    index.html - main page
-    css/ - folder to contain CSS files
-        /style.css - stylesheet
-    img/ - folder to contain any images
-    js/ - folder to contain JavaScript files
-        /main.js
-README.md - any important information
-.gitignore - file that omits any directory/file from being tracked
-```
-
-Additional pages will be relative to the index.html file.
-
-It is okay if your project has more files and more directories, but at the least you need the ones listed above.
 
 ##### Develop:
 
@@ -103,21 +80,21 @@ To complete the assignment, you must complete the following:
 
 Users
 
-- userid (string)
+- user id (string)
 - user name (string)
 - number of books currently checked out (integer)
 
 Books
 
-- bookid (string)
-- userid of user that currently has this book checked out (foreign key)
+- book id (string)
+- user id of user that currently has this book checked out (foreign key)
 - times the book has been checked out (integer)
 
-3. Full CRUD operations should be avaliable for `Users`
-4. Read access should be avaliable for `Books` (it is not possible to perform Create, Update, or Delete functions on the Google Books API) via GET requests
+3. Full CRUD operations should be available for `Users`
+4. Read access should be available for `Books` (it is not possible to perform Create, Update, or Delete functions on the Google Books API) via GET requests
 5. Only save the books in the book table AFTER a user decides to check the book out. (no need to save all the books locally, that's what the API is for)
 6. Use React.js for creating components to put on Laravel Blades.
-7. Users do not need to be real people, this can be simmulated by you by clicking a "new user" button in the admin interface as a Librarian. (think 'library simmulator')
+7. Users do not need to be real people, this can be simulated by you by clicking a "new user" button in the admin interface as a Librarian. (think 'library simulator')
 8. Show all user and book statistics that are saved in database (for example: There are 3 users registered with the library, user "bob" has 2 books checked out: "Algorithms", and "Design Patterns", user "phil" has 0 books checked out, and user "sally" has 1 book checked out: "The Pragmatic Programmer") you can format this data however you'd like, we suggest a table with multiple tabs
 9. Be able to click any user or book and view the info as well as perform full CRUD where applicable.
 
@@ -141,7 +118,7 @@ Books
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-### Additional Resouces
+### Additional Resources
 
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)

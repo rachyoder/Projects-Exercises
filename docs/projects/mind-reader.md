@@ -2,7 +2,7 @@
 
 ### Description
 
-Create a webapp that plays a game with the user to _read their mind_
+Create a web app that plays a game with the user to _read their mind_
 
 For this project we will be using icon packages and state management
 
@@ -24,7 +24,7 @@ For this project we will be using icon packages and state management
 - [Requirements](#Requirements)
   - [Additional Requirements](#Additional-Requirements)
   - [Stretch Goals](#Stretch-Goals)
-- [Additional Resouces](#Additional-Resouces)
+- [Additional Resources](#Additional-Resources)
   <!--te-->
 
 ### MVP
@@ -64,17 +64,17 @@ Minimally:
 web/
     index.html - main page
     css/ - folder to contain CSS files
-        /style.css - stylesheet
+        style.css - main stylesheet
     img/ - folder to contain any images
     js/ - folder to contain JavaScript files
-        /main.js
+        main.js - main JavaScript file
 README.md - any important information
 .gitignore - file that omits any directory/file from being tracked
 ```
 
 Additional pages will be relative to the index.html file.
 
-It is okay if your project has more files and more directories, but at the least you need the ones listed above.
+It is okay if your project has more files and directories, but you at least need the ones listed above.
 
 ##### Develop:
 
@@ -99,9 +99,8 @@ To complete the assignment, you must complete the following:
 1. Use javascript to successfully show the animation transitions
 2. Successfully show state management for each step ( page 1, 2 3 ..) without refreshing the page, this means that you will only create a single index.html
 3. The restart button should not refresh the page, but rather, reset the state of the mind reader
-4. Use Icons of your choice, we reccomend [https://fontawesome.com/icons](https://fontawesome.com/icons)
+4. Use Icons of your choice, we recommend [https://fontawesome.com/icons](https://fontawesome.com/icons)
 5. All multiples of 9 should be the same symbol
-
 
 #### Additional Requirements
 
@@ -124,15 +123,15 @@ To complete the assignment, you must complete the following:
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-### Additional Resouces
+### Additional Resources
 
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
-<!-- - []() -->
+  <!-- - []() -->
 
-For more information about using API's, see these articles:
+For more information about using an API, see these articles:
 
 - [W3 schools local storage](https://www.w3schools.com/html/html5_webstorage.asp)
 - [Bootstrap hide element](https://getbootstrap.com/docs/4.0/utilities/display/#hiding-elements)

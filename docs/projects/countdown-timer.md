@@ -24,7 +24,7 @@ For this project we will be using the Date object and setInterval / setTimeout
 - [Requirements](#Requirements)
   - [Additional Requirements](#Additional-Requirements)
   - [Stretch Goals](#Stretch-Goals)
-- [Additional Resouces](#Additional-Resouces)
+- [Additional Resources](#Additional-Resources)
   <!--te-->
 
 ### MVP
@@ -33,7 +33,7 @@ By default, the app should display a countdown timer.
 
 #### Wireframe
 
-![count downtimer](../wireframes/countdown-timer.png)
+![countdown timer](../wireframes/countdown-timer.png)
 
 #### Tech Stack
 
@@ -62,17 +62,17 @@ Minimally:
 web/
     index.html - main page
     css/ - folder to contain CSS files
-        /style.css - stylesheet
+        style.css - main stylesheet
     img/ - folder to contain any images
     js/ - folder to contain JavaScript files
-        /main.js
+        main.js - main JavaScript file
 README.md - any important information
 .gitignore - file that omits any directory/file from being tracked
 ```
 
 Additional pages will be relative to the index.html file.
 
-It is okay if your project has more files and more directories, but at the least you need the ones listed above.
+It is okay if your project has more files and directories, but you at least need the ones listed above.
 
 ##### Develop:
 
@@ -110,7 +110,7 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- Change the font for the display; a monospace font would look more like a digital clock, and it wouldn't jar your eyes as the variable-width string is recentered every second.
+- Change the font for the display; a mono-spaced font would look more like a digital clock, and it wouldn't jar your eyes as the variable-width string is re-centered every second.
 - Accept user input for length of timer.
 - Play an audible alert when countdown reaches 0
   - Play the song!
@@ -123,7 +123,7 @@ To complete the assignment, you must complete the following:
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-### Additional Resouces
+### Additional Resources
 
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)

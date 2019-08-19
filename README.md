@@ -14,7 +14,7 @@
 - [PHP (Pretty Hefty Payload) Part 2 - Parser](docs/projects/PHP-2.md)
 - [Laravel Library](docs/projects/laravel-library.md)
 - [Attack of the Clones](docs/projects/attack-of-the-clones.md)
-- [Phone Simmulator (Final Portfolio)](docs/projects/portfolio.md)
+- [Phone Simulator (Final Portfolio)](docs/projects/portfolio.md)
 - [Final Project](docs/projects/final-project.md)
 
 # Refactoring
@@ -28,9 +28,9 @@
 
 - [Resources](https://github.com/bootcamp-students/Resources)
 - [Blog Questions](docs/blog-questions.md)
-- [Everyones Blogs](docs/everyones-blogs.md)
+- [Everyone's Blogs](docs/everyones-blogs.md)
 
-<!-- 
+<!--
 ### Finish content
 
 - [Blog](docs/projects/blog.md)
@@ -39,8 +39,8 @@
 - [PHP (Pretty Hefty Payload) Part 1 - Viewer](docs/projects/PHP-1.md)
 - [PHP (Pretty Hefty Payload) Part 2 - Parser](docs/projects/PHP-2.md)
 - [Laravel Library](docs/laravel-library.md)
-- [Phone Simmulator (Final Portfolio)](docs/portfolio.md)
+- [Phone Simulator (Final Portfolio)](docs/portfolio.md)
 - [Final Project](docs/projects/final-project.md)
 - [Resources](https://github.com/bootcamp-students/Resources)
 - [Blog Questions](docs/blog-questions.md)
-- [Everyones Blogs](docs/everyones-blogs.md) -->
+- [Everyone's Blogs](docs/everyones-blogs.md) -->

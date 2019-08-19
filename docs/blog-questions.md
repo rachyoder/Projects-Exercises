@@ -10,36 +10,35 @@
 
 ## Weekly
 
-### Week 12
+### Prework Week 1
 
-### Week 11
+### Prework Week 2
 
-### Week 10
+### Prework Week 3
 
-### Week 9
+### Prework Week 4
 
-- what unique js or php library will you implement for your final project?
-- What cool new features have you learned about from the languages and frameworks you already know that will improve your workflow / add slick features to your final project
-- how many jobs have you applied to? have you been refining your resume/cover letter for the job? have you been trying to learn the code that the specific company uses? added any new projects to your resume/github yet?
-- Look back on the old questions to see if any of them would be good to answer this week compared to week 1.
+### Week 1
 
-### Week 8
+- What is the number one thing that held you back this week? Why?
+- What is one thing you would like to get better at in bootcamp?
 
-- what were your main takeaways from the career fair?
-- after making it through the tech stack, where do you think your current gaps are
-- Bourbon to win? Or Bourbon Toulouse?
+### Week 2
 
-### Week 7
+- What is one thing that programmers hate doing?
+- What are some objects that your blog incorporates?
+- Describe the role of HTML <-> CSS <-> JS
 
-- what is one thing that you love about vue or laravel that you used to hate/ didn't understand how to use
-- biggest win this week!
-- find one JS library or API you think you might use for your final project
+### Week 3
 
-### Week 6
+- What are three ideas you might want to do for your final project
+- Favorite
 
-- How has learning PHP been? What are some similartities you can see with JS; differences?
-- What if you had started with PHP instead of JS
-- Are there any exercises you think would be improved if you refactored them to PHP from JS? Do you plan to?
+### Week 4
+
+- List a some ideas that without Vue, would take you a long time to code
+- Find one emerging javascript tool that you would like to know more about
+  project/exercise of the week? (make sure they are linked on your main page in a projects.html or some sort of portfolio)
 
 ### Week 5
 
@@ -48,29 +47,32 @@
 - Why haven't you answered these questions on your blog page yet?
 - Offer suggestions to improve at least [three blogs](https://github.com/bootcamp-s19/Resources/blob/master/everyones_blogs.md)
 
-### Week 4
+### Week 6
 
-- List a some ideas that without Vue, would take you a long time to code
-- Find one emerging javascript tool that you would like to know more about
+- How has learning PHP been? What are some similarities you can see with JS; differences?
+- What if you had started with PHP instead of JS
+- Are there any exercises you think would be improved if you refactored them to PHP from JS? Do you plan to?
 
-### Week 3
+### Week 7
 
-- What are three ideas you might want to do for your final project
-- Favorite project/exercise of the week? (make sure they are linked on your main page in a projects.html or some sort of portfolio)
+- What is one thing that you love about vue or Laravel that you used to hate/ didn't understand how to use
+- Biggest win this week!
+- Find one JS library or API you think you might use for your final project
 
-### Week 2
+### Week 8
 
-- What is one thing that programmers hate doing?
-- What are some objects that your blog incorporates?
-- Describe the role of HTML <-> CSS <-> JS
+- What were your main takeaways from the career fair?
+- After making it through the tech stack, where do you think your current gaps are
 
-### Week 1
+### Week 9
 
-- What is the number one thing that held you back this week? Why?
-- What is one thing you would like to get better at in bootcamp?
+- what unique JS or PHP library will you implement for your final project?
+- What cool new features have you learned about from the languages and frameworks you already know that will improve your workflow / add slick features to your final project
+- how many jobs have you applied to? have you been refining your resume/cover letter for the job? have you been trying to learn the code that the specific company uses? added any new projects to your resume/github yet?
+- Look back on the old questions to see if any of them would be good to answer this week compared to week 1.
 
-### Prework Week 2
+### Week 10
 
-### Prework Week 3
+### Week 11
 
-### Prework Week 4
+### Week 12

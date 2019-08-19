@@ -2,10 +2,9 @@
 
 ### Description
 
-Create a webpage that prompts users to enter a zipcode, then displays current weather information for that location or a friendly error message if the zipcode is not found.
+Create a webpage that prompts users to enter a zip code, then displays current weather information for that location or a friendly error message if the zip code is not found.
 
 For this project we will be using an external API to retrieve weather data.
-
 
 ### Table of contents
 
@@ -25,12 +24,12 @@ For this project we will be using an external API to retrieve weather data.
 - [Requirements](#Requirements)
   - [Additional Requirements](#Additional-Requirements)
   - [Stretch Goals](#Stretch-Goals)
-- [Additional Resouces](#Additional-Resouces)
+- [Additional Resources](#Additional-Resources)
   <!--te-->
 
 ### MVP
 
-By default, the app should display a title, input box for zipcode, and submit button.
+By default, the app should display a title, input box for zip code, and submit button.
 
 When the submit button is clicked, the application should fetch weather data from [api.openweathermap.org](api.openweathermap.org).
 
@@ -65,17 +64,17 @@ Minimally:
 web/
     index.html - main page
     css/ - folder to contain CSS files
-        /style.css - stylesheet
+        style.css - main stylesheet
     img/ - folder to contain any images
     js/ - folder to contain JavaScript files
-        /main.js
+        main.js - main JavaScript file
 README.md - any important information
 .gitignore - file that omits any directory/file from being tracked
 ```
 
 Additional pages will be relative to the index.html file.
 
-It is okay if your project has more files and more directories, but at the least you need the ones listed above.
+It is okay if your project has more files and directories, but you at least need the ones listed above.
 
 ##### Develop:
 
@@ -99,10 +98,12 @@ To complete the assignment, you must complete the following:
 
 1. Allow the user to enter their location (zip code is probably easiest) and press a button to load the weather by creating an API GET request
 2. If the request is successful, display the following in a 'mobile app' format:
-  - City name
-  - Current weather conditions
-  - Current temperature in Kelvin, Fahrenheit, and Celius
-  - A unique image, selected by the current temperature (The API has icons)
+
+- City name
+- Current weather conditions
+- Current temperature in Kelvin, Fahrenheit, and Celsius
+- A unique image, selected by the current temperature (The API has icons)
+
 3. If the request is unsuccessful, display a specific error message.
 
 #### Additional Requirements
@@ -119,14 +120,13 @@ To complete the assignment, you must complete the following:
 - Get weather based on location data (no need for user input)
 - Use more data provided by the api (forecast data, historical data, daily change in weather, etc.)
 
-
 #### If you finish early...
 
 1. Continue to add your own content, additions, and pages to your site and improve the styling.
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-### Additional Resouces
+### Additional Resources
 
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
@@ -134,7 +134,7 @@ To complete the assignment, you must complete the following:
 - [Learn JS](https://www.w3schools.com/js/)
 - [PWA intro](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
 
-For more information about using API's, see these articles:
+For more information about using APIs, see these articles:
 
 - [W3 schools local storage](https://www.w3schools.com/html/html5_webstorage.asp)
 - [API call / timeout visualization](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D)

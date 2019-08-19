@@ -6,7 +6,7 @@ Create a web site that helps you document your journey through the bootcamp by a
 
 For this project we will be adding new questions every week to the [blog-questions.md](../blog-questions.md) file.
 
-The purpose of this prohject is to not only let you have a way to look back on all your progress when the bootcamp finishes, but also see how different everyone decides to create their websites and work together to learn new techniques.
+The purpose of this project is to not only let you have a way to look back on all your progress when the bootcamp finishes, but also see how different everyone decides to create their websites and work together to learn new techniques.
 
 ### Table of contents
 
@@ -26,7 +26,7 @@ The purpose of this prohject is to not only let you have a way to look back on a
 - [Requirements](#Requirements)
   - [Additional Requirements](#Additional-Requirements)
   - [Stretch Goals](#Stretch-Goals)
-- [Additional Resouces](#Additional-Resouces)
+- [Additional Resources](#Additional-Resources)
   <!--te-->
 
 ### MVP
@@ -46,12 +46,12 @@ By default, your blog should be able to be viewed online by others.
 
 ##### Setup:
 
-1. Create repo, for example: `my-app`
+1. Create repo, for example: `my-blog`
 2. Locally, navigate to your `sites` folder in the terminal
 3. `git clone` + `your-repo-name` into your Sites folder
 4. Create necessary files for application and view in VS Code
-   - Run shell script to expedite process unless you are using a framework
-   - _If you are using a framework, disregard the "Application File Structure" section_
+   <!-- - Run shell script to expedite process unless you are using a framework -->
+   <!-- - _If you are using a framework, disregard the "Application File Structure" section_ -->
 5. Import and route necessary css/js files (E.g. Bootstrap)
 6. Save all and create your first commit to `master`
 
@@ -63,7 +63,7 @@ Minimally:
 web/
     index.html - main page
     css/ - folder to contain CSS files
-        /style.css - stylesheet
+        style.css - stylesheet
     img/ - folder to contain any images
 README.md - any important information
 .gitignore - file that omits any directory/file from being tracked
@@ -71,7 +71,7 @@ README.md - any important information
 
 Additional pages will be relative to the index.html file.
 
-It is okay if your project has more files and more directories, but at the least you need the ones listed above.
+It is okay if your project has more files and directories, but you at least need the ones listed above.
 
 ##### Develop:
 
@@ -121,7 +121,7 @@ To complete the assignment, you must complete the following:
 2. Add info to your projects README.md [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 3. Add links and resources from this week to the [Class Resources Repo](https://github.com/bootcamp-students/Resources) by forking the repo and then initiating a pull request with your additions to the .md file.
 
-### Additional Resouces
+### Additional Resources
 
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
