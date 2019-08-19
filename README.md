@@ -42,5 +42,4 @@
 - [Phone Simulator (Final Portfolio)](docs/portfolio.md)
 - [Final Project](docs/projects/final-project.md)
 - [Resources](https://github.com/bootcamp-students/Resources)
-- [Blog Questions](docs/blog-questions.md)
-- [Everyone's Blogs](docs/everyones-blogs.md) -->
+- [Everyone's Blogs](docs/everyones-blogs.md)
