@@ -149,7 +149,6 @@ To complete the assignment, you must complete the following:
 - [Learn JS](https://www.w3schools.com/js/)
 - [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 - [Pull Requests](https://stackoverflow.com/questions/21657430/why-is-a-git-pull-request-not-called-a-push-request)
-  <!-- - []() -->
 
 For more information about content creation, see these articles:
 

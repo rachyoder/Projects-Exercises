@@ -49,8 +49,8 @@ By default, the app should GET JSON data from the internet to your machine
 4. Create necessary files for application and view in VS Code
    - Run shell script to expedite process unless you are using a framework
    - _If you are using a framework, disregard the "Application File Structure" section_
-     <!-- 5. Import and route necessary css/js files (E.g. Bootstrap) -->
-5. Save all and create your first commit to `master`
+5. Import and route necessary css/js files (E.g. Bootstrap)
+6. Save all and create your first commit to `master`
 
 ###### Application File Structure
 
@@ -119,7 +119,6 @@ To complete the assignment, you must complete the following:
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn PHP](https://www.w3schools.com/php/)
-  <!-- - []() -->
 
 For more information about **_doing something_**, see these articles:
 

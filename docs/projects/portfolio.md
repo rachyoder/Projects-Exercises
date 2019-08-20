@@ -95,9 +95,10 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- stretch goal 1
-- stretch goal 2
-- stretch goal 3
+- Have in app toggle for mobile/desktop
+- Recreate in React
+- Recreate in Laravel
+- Push to live online web hosting
 
 #### If you finish early...
 
@@ -110,11 +111,9 @@ To complete the assignment, you must complete the following:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-  <!-- - [Learn JS](https://www.w3schools.com/js/) -->
-- []()
 
-For more information about **_doing something_**, see these articles:
+For more information about portfolios, see these articles:
 
-- []()
-- []()
-- []()
+- [Google](https://www.google.com/search?q=developer+portfolio&oq=developer+portfolio&aqs=chrome..69i57j0l5.3263j1j7&sourceid=chrome&ie=UTF-8)
+- [GitHub article](https://techbeacon.com/app-dev-testing/what-do-job-seeking-developers-need-their-github)
+- [LinkedIn](https://medium.com/@samanthaming/tips-to-optimize-your-linkedin-profile-for-developers-77777c1e2c2e)

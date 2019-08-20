@@ -16,7 +16,6 @@ The purpose of this project is to not only let you have a way to look back on al
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
-  - [Wireframe](#Wireframe)
   - [Tech Stack](#Tech-Stack)
 - [Process](#process)
   - [Setup](#Setup)
@@ -32,10 +31,6 @@ The purpose of this project is to not only let you have a way to look back on al
 ### MVP
 
 By default, your blog should be able to be viewed online by others.
-
-<!-- #### Wireframe
-
-![wireframe](../wireframes/wireframe.png) -->
 
 #### Tech Stack
 
@@ -126,8 +121,6 @@ To complete the assignment, you must complete the following:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-  <!-- - [Learn JS](https://www.w3schools.com/js/) -->
-    <!-- - []() -->
 
 For more information about blogs, see these articles:
 
@@ -135,4 +128,3 @@ For more information about blogs, see these articles:
 - [Best Blogs to Read on Web Development](https://usersnap.com/blog/12-best-web-development-blogs-reading-right-now/)
 - [Blog Design Examples](https://bloggingpro.com/archives/2017/07/20/5-best-blog-design-examples-inspiration/)
 - [Blog Template Ideas](https://colorlib.com/wp/blog-website-templates/)
-  <!-- - []() -->

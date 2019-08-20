@@ -16,11 +16,9 @@ We will also be following the Agile Scrum Methodology and working within the sco
 - [Description](#Description)
 - [Table of Contents](#table-of-contents)
 - [MVP (Minimum Viable Product)](#MVP)
-  <!-- - [Wireframe](#Wireframe) -->
   - [Tech Stack](#Tech-Stack)
 - [Process](#process)
   - [Setup](#Setup)
-    <!-- - [Application File Structure](#Application-File-Structure) -->
   - [Develop](#Develop)
   - [Deploy](#Deploy)
 - [Requirements](#Requirements)
@@ -32,10 +30,6 @@ We will also be following the Agile Scrum Methodology and working within the sco
 ### MVP
 
 By default, your app should use all the technologies learned throughout the bootcamp.
-
-<!-- #### Wireframe
-
-![wireframe](../wireframes/wireframe.png) -->
 
 #### Tech Stack
 
@@ -55,9 +49,7 @@ By default, your app should use all the technologies learned throughout the boot
 1. Create repo, for example: `my-app`
 2. Locally, navigate to your `sites` folder in the terminal
 3. `git clone` + `your-repo-name` into your Sites folder
-4. Create necessary files for application via command line and view in VS Code
-   <!-- - Run shell script to expedite process unless you are using a framework -->
-   <!-- - _If you are using a framework, disregard the "Application File Structure" section_ -->
+4. Create necessary files for application via CLI and view in VS Code
 5. Import and route necessary css/js files (E.g. Bootstrap)
 6. Save all and create your first commit to `master`
 
@@ -122,8 +114,6 @@ To complete the assignment, you must complete the following:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-  <!-- - [Learn JS](https://www.w3schools.com/js/) -->
-  <!-- - []() -->
 
 For more information about app ideas, see these articles:
 

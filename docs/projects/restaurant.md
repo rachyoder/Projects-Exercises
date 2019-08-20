@@ -35,14 +35,6 @@ To complete the assignment, you must complete the following:
 5. Create necessary files for application
 6. Import necessary css/js files (Bootstrap)
 
-<!-- ###### Optional Setup for eslint
-
-1. in your repo top directory,
-2. `npm init`
-3. `eslint --init`
-4. add the following line to your `.gitignore`
-   1. `node_modules/` -->
-
 ###### Develop:
 
 1. Create a development branch

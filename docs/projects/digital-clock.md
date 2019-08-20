@@ -96,7 +96,6 @@ To complete the assignment, you must complete the following:
 
 1. Display the current time
 2. Make sure it updates every second without refreshing the page
-   <!-- 3. Requirement 3 -->
 
 #### Additional Requirements
 
@@ -126,10 +125,8 @@ To complete the assignment, you must complete the following:
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
-  <!-- - []() -->
 
 For more information about coding time, see these articles:
 
 - [The problem with coding time](https://www.youtube.com/watch?v=-5wpm-gesOY)
 - [History Of Javascript](https://fireship.io/courses/javascript/intro-history/)
-  <!-- - []() -->

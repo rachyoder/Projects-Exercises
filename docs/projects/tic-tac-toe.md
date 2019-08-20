@@ -6,7 +6,7 @@ Create a webpage that recreates the childhood classic game, tic-tac-toe, in Java
 
 See [https://en.wikipedia.org/wiki/Tic-tac-toe](https://en.wikipedia.org/wiki/Tic-tac-toe) for more information.
 
-<!-- For this project we will be using **_something_** -->
+For this project we will be using JavaScript to dynamically render elements, keep track of board status, and display win conditions and state
 
 ### Table of contents
 
@@ -138,10 +138,8 @@ To complete the assignment, you must complete the following:
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
-  <!-- - []() -->
 
 For more information about games and code, see these articles:
 
 - [AlphaGo - Netflix](https://www.netflix.com/title/80190844?s=i&trkid=13747225)
 - [Are Computers Playing Games With Us?](https://www.huffpost.com/entry/computer-game-intelligence_b_1396377)
-  <!-- - []() -->

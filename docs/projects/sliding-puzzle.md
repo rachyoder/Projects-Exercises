@@ -4,7 +4,7 @@
 
 Create a webpage that simulates a sliding puzzle
 
-For this project we will be using vanilla javascript to dynamically parse the image and render the puzzle pieces in real time.
+For this project we will be using vanilla javascript to dynamically parse the image, render the puzzle pieces in real time, keep track of puzzle state
 
 ### Table of contents
 
@@ -131,7 +131,6 @@ To complete the assignment, you must complete the following:
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
-  <!-- - []() -->
 
 For more information about images and state, see these articles:
 

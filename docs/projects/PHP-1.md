@@ -49,7 +49,6 @@ By default, the app should POST JSON data from your machine to the internet.
 4. Create necessary files for application and view in VS Code
    - Run shell script to expedite process unless you are using a framework
    - _If you are using a framework, disregard the "Application File Structure" section_
-     <!-- 5. Import and route necessary css/js files (E.g. Bootstrap) -->
 5. Save all and create your first commit to `master`
 
 ###### Application File Structure
@@ -93,9 +92,6 @@ To complete the assignment, you must complete the following:
 
 #### Additional Requirements
 
-<!-- - Website must be responsive -->
-<!-- - Style your app as you wish -->
-
 - Use the tools and technologies covered in class to complete your website. To see what we have covered, check the [Class Resources Repo](https://github.com/bootcamp-students/Resources).
 - Your repo should be public so that others can see your code and comment on it.
   - _**Remember to push to GitHub!**_
@@ -118,7 +114,6 @@ To complete the assignment, you must complete the following:
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn PHP](https://www.w3schools.com/php/)
-  <!-- - []() -->
 
 For more information about PHP, see these articles:
 

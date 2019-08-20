@@ -97,7 +97,6 @@ To complete the assignment, you must complete the following:
 1. Display the time
 2. Make sure it updates every second without refreshing the page
 3. Stop the timer when countdown reaches 0
-   <!-- 4. Requirement 4 -->
 
 #### Additional Requirements
 
@@ -113,9 +112,8 @@ To complete the assignment, you must complete the following:
 - Change the font for the display; a mono-spaced font would look more like a digital clock, and it wouldn't jar your eyes as the variable-width string is re-centered every second.
 - Accept user input for length of timer.
 - Play an audible alert when countdown reaches 0
-  - Play the song!
-    Make it look like an analog countdown timer
-    <!-- - stretch goal 3 -->
+- Play the song!
+- Make it look like an analog countdown timer
 
 #### If you finish early...
 
@@ -129,10 +127,8 @@ To complete the assignment, you must complete the following:
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
-  <!-- - []() -->
 
 For more information about JavaScript, see these articles:
 
 - [How JS works](https://fireship.io/courses/javascript/intro-how-js-works/)
 - [What is JS?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-  <!-- - []() -->

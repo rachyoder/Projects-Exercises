@@ -57,8 +57,6 @@ By default, the clone app should replicate the design and functionality of the r
 2. Locally, navigate to your `sites` folder in the terminal
 3. `git clone` + `your-repo-name` into your Sites folder
 4. Create necessary files for application and view in VS Code via CLI
-   <!-- - Run shell script to expedite process unless you are using a framework -->
-   <!-- - _If you are using a framework, disregard the "Application File Structure" section_ -->
 5. Import and route necessary css/js files (E.g. Bootstrap)
 6. Save all and create your first commit to `master`
 
@@ -111,8 +109,6 @@ To complete the assignment, you must complete the following:
 #### Stretch Goals
 
 - Connect your app to a server to have multiple people be able to log in and use it at the same time (gmail clone users can email each other, twitter clone users can @ and follow each other, etc)
-  <!-- - stretch goal 2 -->
-  <!-- - stretch goal 3 -->
 
 #### If you finish early...
 
@@ -125,7 +121,6 @@ To complete the assignment, you must complete the following:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-  <!-- - [Learn JS](https://www.w3schools.com/js/) -->
 - [Atomic Design Principles - book](http://atomicdesign.bradfrost.com/)
 
 For more information about clone apps, see these articles:

@@ -2,7 +2,7 @@
 
 ### Description
 
-Create a web app that plays a game with the user to _read their mind_
+Create a [single page web app](https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58) that plays a game with the user to _read their mind_
 
 For this project we will be using icon packages and state management
 
@@ -96,7 +96,7 @@ It is okay if your project has more files and directories, but you at least need
 
 To complete the assignment, you must complete the following:
 
-1. Use javascript to successfully show the animation transitions
+1. Use JavaScript to successfully show the animation transitions
 2. Successfully show state management for each step ( page 1, 2 3 ..) without refreshing the page, this means that you will only create a single index.html
 3. The restart button should not refresh the page, but rather, reset the state of the mind reader
 4. Use Icons of your choice, we recommend [https://fontawesome.com/icons](https://fontawesome.com/icons)
@@ -113,9 +113,9 @@ To complete the assignment, you must complete the following:
 
 #### Stretch Goals
 
-- stretch goal 1
-- stretch goal 2
-- stretch goal 3
+- Dynamically generate content using JavaScript
+- Dynamically change CSS with JavaScript
+- Use a Framework to generate the SPA
 
 #### If you finish early...
 
@@ -129,10 +129,10 @@ To complete the assignment, you must complete the following:
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn JS](https://www.w3schools.com/js/)
-  <!-- - []() -->
 
-For more information about using an API, see these articles:
+For more information about single page web apps, see these articles:
 
 - [W3 schools local storage](https://www.w3schools.com/html/html5_webstorage.asp)
 - [Bootstrap hide element](https://getbootstrap.com/docs/4.0/utilities/display/#hiding-elements)
 - [JavaScript Transitions](https://css-tricks.com/controlling-css-animations-transitions-javascript/)
+- [Wiki page about SPA](https://en.wikipedia.org/wiki/Single-page_application)

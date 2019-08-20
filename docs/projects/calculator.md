@@ -141,7 +141,7 @@ Example:
 - Undo button
 - Button that holds a value or function of choice (for example: button that automatically calculates the tip)
 - Use recursion to calculate the results
-- Graphing calculator
+- Turn it into a graphing calculator
 
 #### If you finish early...
 
