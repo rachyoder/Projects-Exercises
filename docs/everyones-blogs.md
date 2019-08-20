@@ -18,8 +18,7 @@ Ian Rios - [https://ianrios.github.io/](https://ianrios.github.io/)
 - Sam Wheeling - [https://anchormansam.github.io/](https://anchormansam.github.io/)
 - Rachael Yoder - [https://.github.io/](https://.github.io/)
 - Michael Loyselle - [https://Leozas.github.io/](https://Leozas.github.io/)
-- Ethan Borkosky - [https://.github.io/](https://.github.io/)
-
+- Ethan Borkosky - [https://eBork1.github.io/](https://eBork1.github.io/)
 
 # GitHub Profiles
 
@@ -33,4 +32,4 @@ Ian Rios - [https://ianrios.github.io/](https://ianrios.github.io/)
 - Sam Wheeling - [https://www.github.com/anchormansam](https://www.github.com/anchormansam)
 - Rachael Yoder - [https://www.github.com](https://www.github.com/)
 - Michael Loyselle - [https://www.github.com/Leozas](https://www.github.com/Leozas)
-- Ethan Borkosky - [https://www.github.com/](https://www.github.com/)
+- Ethan Borkosky - [https://www.github.com/eBork1](https://www.github.com/eBork1)
