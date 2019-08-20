@@ -8,11 +8,29 @@ Ian Rios - [https://ianrios.github.io/](https://ianrios.github.io/)
 
 # Blogs
 
-Taylor Akin - [https://taylorakin.github.io/](https://taylorakin.github.io/)
-Will McGill - [http://willmcgill.github.io/](http://willmcgill.github.io/)
-David Joyce - [https://dmjoyce951.github.io/](https://dmjoyce951.github.io/)
-Robbie Gay - [https://robbiegay.github.io/](https://robbiegay.github.io/)
-Todd Trivisonno - [https://toddtrivisonno.github.io/](https://toddtrivisonno.github.io/)
-Abram Gornik - [https://Wildercat.github.io/](https://Wildercat.github.io/)
-Eric Hampton - [https://EricHampton12.github.io/](https://EricHampton12.github.io/)
-Sam Wheeling - [https://anchormansam.github.io/](https://anchormansam.github.io/)
+- Taylor Akin - [https://taylorakin.github.io/](https://taylorakin.github.io/)
+- Will McGill - [http://willmcgill.github.io/](http://willmcgill.github.io/)
+- David Joyce - [https://dmjoyce951.github.io/](https://dmjoyce951.github.io/)
+- Robbie Gay - [https://robbiegay.github.io/](https://robbiegay.github.io/)
+- Todd Trivisonno - [https://toddtrivisonno.github.io/](https://toddtrivisonno.github.io/)
+- Abram Gornik - [https://Wildercat.github.io/](https://Wildercat.github.io/)
+- Eric Hampton - [https://EricHampton12.github.io/](https://EricHampton12.github.io/)
+- Sam Wheeling - [https://anchormansam.github.io/](https://anchormansam.github.io/)
+- Rachael Yoder - [https://.github.io/](https://.github.io/)
+- Michael Loyselle - [https://Leozas.github.io/](https://Leozas.github.io/)
+- Ethan Borkosky - [https://.github.io/](https://.github.io/)
+
+
+# GitHub Profiles
+
+- Taylor Akin - [https://www.github.com/taylorakin](https://www.github.com/taylorakin)
+- Will McGill - [https://www.github.com/willmcgill](http://www.github.com/willmcgill)
+- David Joyce - [https://www.github.com/dmjoyce951](https://www.github.com/dmjoyce951)
+- Robbie Gay - [https://www.github.com/robbiegay](https://www.github.com/robbiegay)
+- Todd Trivisonno - [https://www.github.com/toddtrivisonno](https://www.github.com/toddtrivisonno)
+- Abram Gornik - [https://www.github.com/Wildercat](https://www.github.com/Wildercat)
+- Eric Hampton - [https://www.github.com/EricHampton12](https://www.github.com/EricHampton12)
+- Sam Wheeling - [https://www.github.com/anchormansam](https://www.github.com/anchormansam)
+- Rachael Yoder - [https://www.github.com](https://www.github.com/)
+- Michael Loyselle - [https://www.github.com/Leozas](https://www.github.com/Leozas)
+- Ethan Borkosky - [https://www.github.com/](https://www.github.com/)
