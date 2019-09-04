@@ -91,7 +91,7 @@ To complete the assignment, you must complete the following:
 1. Continuous updates to your blog throughout the bootcamp
 2. Help others out with making their blog look good
 3. Integrate with your portfolio
-4. Create a PR for the [everyones-blogs.md](../everyones-blogs.md) file, correcting your information if it is wrong.
+4. Create a PR for the [everyones-blogs.md](../everyones-blogs.md) file, correcting *your* personal information if it is wrong.
 
 #### Additional Requirements
 
