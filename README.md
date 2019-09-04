@@ -33,7 +33,7 @@
 <!--
 ### Finish content
 
-- [Blog](docs/projects/blog.md)
+
 - [Campaign Website](docs/projects/campaign-website.md)
 - [To Do List](docs/projects/to-do-list.md)
 - [PHP (Pretty Hefty Payload) Part 1 - Viewer](docs/projects/PHP-1.md)
@@ -42,4 +42,3 @@
 - [Phone Simulator (Final Portfolio)](docs/portfolio.md)
 - [Final Project](docs/projects/final-project.md)
 - [Resources](https://github.com/bootcamp-students/Resources)
-- [Everyone's Blogs](docs/everyones-blogs.md)
